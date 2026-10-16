@@ -1,0 +1,140 @@
+[01:22:31] Tuning   [--------------------] 1/40 (2%) skema A | resample | lr 0.001 | batch 16 | berjalan 0.4 menit
+[01:22:31] Tuning   [#-------------------] 2/40 (5%) skema A | resample | lr 0.001 | batch 32 | berjalan 0.4 menit
+[01:22:31] Tuning   [#-------------------] 3/40 (8%) skema A | resample | lr 0.0001 | batch 16 | berjalan 0.4 menit
+[01:22:31] Tuning   [##------------------] 4/40 (10%) skema A | resample | lr 0.0001 | batch 32 | berjalan 0.4 menit
+[01:23:06] Tuning   [##------------------] 5/40 (12%) skema A | window | lr 0.001 | batch 16 | berjalan 0.9 menit
+[01:23:06] Tuning   [###-----------------] 6/40 (15%) skema A | window | lr 0.001 | batch 32 | berjalan 0.9 menit
+[01:23:20] Tuning   [###-----------------] 7/40 (18%) skema A | window | lr 0.0001 | batch 16 | berjalan 1.2 menit
+[01:23:20] Tuning   [####----------------] 8/40 (20%) skema A | window | lr 0.0001 | batch 32 | berjalan 1.2 menit
+[01:23:20] Tuning   [####----------------] 9/40 (22%) skema A' | resample | lr 0.001 | batch 16 | berjalan 1.2 menit
+[01:23:20] Tuning   [#####---------------] 10/40 (25%) skema A' | resample | lr 0.001 | batch 32 | berjalan 1.2 menit
+[01:23:23] Tuning   [#####---------------] 11/40 (28%) skema A' | resample | lr 0.0001 | batch 16 | berjalan 1.2 menit
+[01:23:23] Tuning   [######--------------] 12/40 (30%) skema A' | resample | lr 0.0001 | batch 32 | berjalan 1.2 menit
+[01:23:58] Tuning   [######--------------] 13/40 (32%) skema A' | window | lr 0.001 | batch 16 | berjalan 1.8 menit
+[01:23:58] Tuning   [#######-------------] 14/40 (35%) skema A' | window | lr 0.001 | batch 32 | berjalan 1.8 menit
+[01:24:12] Tuning   [#######-------------] 15/40 (38%) skema A' | window | lr 0.0001 | batch 16 | berjalan 2.0 menit
+[01:24:12] Tuning   [########------------] 16/40 (40%) skema A' | window | lr 0.0001 | batch 32 | berjalan 2.0 menit
+[01:24:12] Tuning   [########------------] 17/40 (42%) skema B | resample | lr 0.001 | batch 16 | berjalan 2.0 menit
+[01:24:12] Tuning   [#########-----------] 18/40 (45%) skema B | resample | lr 0.001 | batch 32 | berjalan 2.0 menit
+[01:24:12] Tuning   [#########-----------] 19/40 (48%) skema B | resample | lr 0.0001 | batch 16 | berjalan 2.0 menit
+[01:24:12] Tuning   [##########----------] 20/40 (50%) skema B | resample | lr 0.0001 | batch 32 | berjalan 2.0 menit
+[01:24:47] Tuning   [##########----------] 21/40 (52%) skema B | window | lr 0.001 | batch 16 | berjalan 2.6 menit
+[01:24:47] Tuning   [###########---------] 22/40 (55%) skema B | window | lr 0.001 | batch 32 | berjalan 2.6 menit
+[01:24:58] Tuning   [###########---------] 23/40 (57%) skema B | window | lr 0.0001 | batch 16 | berjalan 2.8 menit
+[01:24:58] Tuning   [############--------] 24/40 (60%) skema B | window | lr 0.0001 | batch 32 | berjalan 2.8 menit
+[01:24:58] Tuning   [############--------] 25/40 (62%) skema C | resample | lr 0.001 | batch 16 | berjalan 2.8 menit
+[01:24:58] Tuning   [#############-------] 26/40 (65%) skema C | resample | lr 0.001 | batch 32 | berjalan 2.8 menit
+[01:24:58] Tuning   [#############-------] 27/40 (68%) skema C | resample | lr 0.0001 | batch 16 | berjalan 2.8 menit
+[01:24:59] Tuning   [##############------] 28/40 (70%) skema C | resample | lr 0.0001 | batch 32 | berjalan 2.8 menit
+[01:25:39] Tuning   [##############------] 29/40 (72%) skema C | window | lr 0.001 | batch 16 | berjalan 3.5 menit
+[01:25:39] Tuning   [###############-----] 30/40 (75%) skema C | window | lr 0.001 | batch 32 | berjalan 3.5 menit
+[01:25:48] Tuning   [###############-----] 31/40 (78%) skema C | window | lr 0.0001 | batch 16 | berjalan 3.7 menit
+[01:25:48] Tuning   [################----] 32/40 (80%) skema C | window | lr 0.0001 | batch 32 | berjalan 3.7 menit
+[01:25:48] Tuning   [################----] 33/40 (82%) skema D | resample | lr 0.001 | batch 16 | berjalan 3.7 menit
+[01:25:48] Tuning   [#################---] 34/40 (85%) skema D | resample | lr 0.001 | batch 32 | berjalan 3.7 menit
+[01:25:48] Tuning   [#################---] 35/40 (88%) skema D | resample | lr 0.0001 | batch 16 | berjalan 3.7 menit
+[01:25:50] Tuning   [##################--] 36/40 (90%) skema D | resample | lr 0.0001 | batch 32 | berjalan 3.7 menit
+[01:26:28] Tuning   [##################--] 37/40 (92%) skema D | window | lr 0.001 | batch 16 | berjalan 4.3 menit
+[01:26:28] Tuning   [###################-] 38/40 (95%) skema D | window | lr 0.001 | batch 32 | berjalan 4.3 menit
+[01:26:32] Tuning   [###################-] 39/40 (98%) skema D | window | lr 0.0001 | batch 16 | berjalan 4.4 menit
+[01:26:32] Tuning   [####################] 40/40 (100%) skema D | window | lr 0.0001 | batch 32 | berjalan 4.4 menit
+[01:26:57] Training [--------------------] 1/100 (1%) skema A | resample | holdout | berjalan 4.8 menit
+[01:26:57] Training [--------------------] 2/100 (2%) skema A | resample | loso0 | berjalan 4.8 menit
+[01:26:57] Training [--------------------] 3/100 (3%) skema A | resample | loso1 | berjalan 4.8 menit
+[01:26:57] Training [--------------------] 4/100 (4%) skema A | resample | loso2 | berjalan 4.8 menit
+[01:26:57] Training [#-------------------] 5/100 (5%) skema A | resample | loso3 | berjalan 4.8 menit
+[01:27:22] Training [#-------------------] 6/100 (6%) skema A | resample | loso4 | berjalan 5.2 menit
+[01:27:23] Training [#-------------------] 7/100 (7%) skema A | resample | loso5 | berjalan 5.2 menit
+[01:27:23] Training [#-------------------] 8/100 (8%) skema A | resample | loso6 | berjalan 5.2 menit
+[01:27:25] Training [#-------------------] 9/100 (9%) skema A | resample | loso7 | berjalan 5.3 menit
+[01:27:25] Training [##------------------] 10/100 (10%) skema A | resample | loso8 | berjalan 5.3 menit
+[01:28:33] Training [##------------------] 11/100 (11%) skema A | window | holdout | berjalan 6.4 menit
+[01:28:34] Training [##------------------] 12/100 (12%) skema A | window | loso0 | berjalan 6.4 menit
+[01:28:35] Training [##------------------] 13/100 (13%) skema A | window | loso1 | berjalan 6.4 menit
+[01:28:35] Training [##------------------] 14/100 (14%) skema A | window | loso2 | berjalan 6.4 menit
+[01:28:37] Training [###-----------------] 15/100 (15%) skema A | window | loso3 | berjalan 6.5 menit
+[01:29:41] Training [###-----------------] 16/100 (16%) skema A | window | loso4 | berjalan 7.5 menit
+[01:29:43] Training [###-----------------] 17/100 (17%) skema A | window | loso5 | berjalan 7.6 menit
+[01:29:46] Training [###-----------------] 18/100 (18%) skema A | window | loso6 | berjalan 7.6 menit
+[01:29:46] Training [###-----------------] 19/100 (19%) skema A | window | loso7 | berjalan 7.6 menit
+[01:29:46] Training [####----------------] 20/100 (20%) skema A | window | loso8 | berjalan 7.6 menit
+[01:30:04] Training [####----------------] 21/100 (21%) skema A' | resample | holdout | berjalan 7.9 menit
+[01:30:05] Training [####----------------] 22/100 (22%) skema A' | resample | loso0 | berjalan 7.9 menit
+[01:30:05] Training [####----------------] 23/100 (23%) skema A' | resample | loso1 | berjalan 7.9 menit
+[01:30:07] Training [####----------------] 24/100 (24%) skema A' | resample | loso2 | berjalan 8.0 menit
+[01:30:09] Training [#####---------------] 25/100 (25%) skema A' | resample | loso3 | berjalan 8.0 menit
+[01:30:28] Training [#####---------------] 26/100 (26%) skema A' | resample | loso4 | berjalan 8.3 menit
+[01:30:29] Training [#####---------------] 27/100 (27%) skema A' | resample | loso5 | berjalan 8.3 menit
+[01:30:29] Training [#####---------------] 28/100 (28%) skema A' | resample | loso6 | berjalan 8.3 menit
+[01:30:33] Training [#####---------------] 29/100 (29%) skema A' | resample | loso7 | berjalan 8.4 menit
+[01:30:36] Training [######--------------] 30/100 (30%) skema A' | resample | loso8 | berjalan 8.4 menit
+[01:31:37] Training [######--------------] 31/100 (31%) skema A' | window | holdout | berjalan 9.5 menit
+[01:31:39] Training [######--------------] 32/100 (32%) skema A' | window | loso0 | berjalan 9.5 menit
+[01:31:40] Training [######--------------] 33/100 (33%) skema A' | window | loso1 | berjalan 9.5 menit
+[01:31:42] Training [######--------------] 34/100 (34%) skema A' | window | loso2 | berjalan 9.6 menit
+[01:31:46] Training [#######-------------] 35/100 (35%) skema A' | window | loso3 | berjalan 9.6 menit
+[01:32:50] Training [#######-------------] 36/100 (36%) skema A' | window | loso4 | berjalan 10.7 menit
+[01:32:54] Training [#######-------------] 37/100 (37%) skema A' | window | loso5 | berjalan 10.8 menit
+[01:32:58] Training [#######-------------] 38/100 (38%) skema A' | window | loso6 | berjalan 10.8 menit
+[01:32:58] Training [#######-------------] 39/100 (39%) skema A' | window | loso7 | berjalan 10.8 menit
+[01:32:58] Training [########------------] 40/100 (40%) skema A' | window | loso8 | berjalan 10.8 menit
+[01:33:14] Training [########------------] 41/100 (41%) skema B | resample | holdout | berjalan 11.1 menit
+[01:33:17] Training [########------------] 42/100 (42%) skema B | resample | loso0 | berjalan 11.1 menit
+[01:33:18] Training [########------------] 43/100 (43%) skema B | resample | loso1 | berjalan 11.2 menit
+[01:33:18] Training [########------------] 44/100 (44%) skema B | resample | loso2 | berjalan 11.2 menit
+[01:33:22] Training [#########-----------] 45/100 (45%) skema B | resample | loso3 | berjalan 11.2 menit
+[01:33:39] Training [#########-----------] 46/100 (46%) skema B | resample | loso4 | berjalan 11.5 menit
+[01:33:43] Training [#########-----------] 47/100 (47%) skema B | resample | loso5 | berjalan 11.6 menit
+[01:33:44] Training [#########-----------] 48/100 (48%) skema B | resample | loso6 | berjalan 11.6 menit
+[01:33:47] Training [#########-----------] 49/100 (49%) skema B | resample | loso7 | berjalan 11.6 menit
+[01:33:51] Training [##########----------] 50/100 (50%) skema B | resample | loso8 | berjalan 11.7 menit
+[01:34:08] Training [##########----------] 51/100 (51%) skema B | window | holdout | berjalan 12.0 menit
+[01:34:11] Training [##########----------] 52/100 (52%) skema B | window | loso0 | berjalan 12.0 menit
+[01:34:13] Training [##########----------] 53/100 (53%) skema B | window | loso1 | berjalan 12.1 menit
+[01:34:15] Training [##########----------] 54/100 (54%) skema B | window | loso2 | berjalan 12.1 menit
+[01:34:20] Training [###########---------] 55/100 (55%) skema B | window | loso3 | berjalan 12.2 menit
+[01:34:34] Training [###########---------] 56/100 (56%) skema B | window | loso4 | berjalan 12.4 menit
+[01:34:38] Training [###########---------] 57/100 (57%) skema B | window | loso5 | berjalan 12.5 menit
+[01:34:40] Training [###########---------] 58/100 (58%) skema B | window | loso6 | berjalan 12.5 menit
+[01:34:40] Training [###########---------] 59/100 (59%) skema B | window | loso7 | berjalan 12.5 menit
+[01:34:45] Training [############--------] 60/100 (60%) skema B | window | loso8 | berjalan 12.6 menit
+[01:35:01] Training [############--------] 61/100 (61%) skema C | resample | holdout | berjalan 12.9 menit
+[01:35:06] Training [############--------] 62/100 (62%) skema C | resample | loso0 | berjalan 12.9 menit
+[01:35:08] Training [############--------] 63/100 (63%) skema C | resample | loso1 | berjalan 13.0 menit
+[01:35:08] Training [############--------] 64/100 (64%) skema C | resample | loso2 | berjalan 13.0 menit
+[01:35:12] Training [#############-------] 65/100 (65%) skema C | resample | loso3 | berjalan 13.1 menit
+[01:35:28] Training [#############-------] 66/100 (66%) skema C | resample | loso4 | berjalan 13.3 menit
+[01:35:33] Training [#############-------] 67/100 (67%) skema C | resample | loso5 | berjalan 13.4 menit
+[01:35:35] Training [#############-------] 68/100 (68%) skema C | resample | loso6 | berjalan 13.4 menit
+[01:35:37] Training [#############-------] 69/100 (69%) skema C | resample | loso7 | berjalan 13.5 menit
+[01:35:42] Training [##############------] 70/100 (70%) skema C | resample | loso8 | berjalan 13.6 menit
+[01:36:10] Training [##############------] 71/100 (71%) skema C | window | holdout | berjalan 14.0 menit
+[01:36:15] Training [##############------] 72/100 (72%) skema C | window | loso0 | berjalan 14.1 menit
+[01:36:17] Training [##############------] 73/100 (73%) skema C | window | loso1 | berjalan 14.1 menit
+[01:36:19] Training [##############------] 74/100 (74%) skema C | window | loso2 | berjalan 14.2 menit
+[01:36:25] Training [###############-----] 75/100 (75%) skema C | window | loso3 | berjalan 14.3 menit
+[01:36:52] Training [###############-----] 76/100 (76%) skema C | window | loso4 | berjalan 14.7 menit
+[01:36:58] Training [###############-----] 77/100 (77%) skema C | window | loso5 | berjalan 14.8 menit
+[01:37:01] Training [###############-----] 78/100 (78%) skema C | window | loso6 | berjalan 14.9 menit
+[01:37:01] Training [###############-----] 79/100 (79%) skema C | window | loso7 | berjalan 14.9 menit
+[01:37:04] Training [################----] 80/100 (80%) skema C | window | loso8 | berjalan 14.9 menit
+[01:37:22] Training [################----] 81/100 (81%) skema D | resample | holdout | berjalan 15.2 menit
+[01:37:28] Training [################----] 82/100 (82%) skema D | resample | loso0 | berjalan 15.3 menit
+[01:37:30] Training [################----] 83/100 (83%) skema D | resample | loso1 | berjalan 15.4 menit
+[01:37:31] Training [################----] 84/100 (84%) skema D | resample | loso2 | berjalan 15.4 menit
+[01:37:35] Training [#################---] 85/100 (85%) skema D | resample | loso3 | berjalan 15.4 menit
+[01:37:51] Training [#################---] 86/100 (86%) skema D | resample | loso4 | berjalan 15.7 menit
+[01:37:58] Training [#################---] 87/100 (87%) skema D | resample | loso5 | berjalan 15.8 menit
+[01:38:01] Training [#################---] 88/100 (88%) skema D | resample | loso6 | berjalan 15.9 menit
+[01:38:05] Training [#################---] 89/100 (89%) skema D | resample | loso7 | berjalan 15.9 menit
+[01:38:17] Training [##################--] 90/100 (90%) skema D | resample | loso8 | berjalan 16.1 menit
+[01:38:49] Training [##################--] 91/100 (91%) skema D | window | holdout | berjalan 16.7 menit
+[01:38:56] Training [##################--] 92/100 (92%) skema D | window | loso0 | berjalan 16.8 menit
+[01:38:58] Training [##################--] 93/100 (93%) skema D | window | loso1 | berjalan 16.8 menit
+[01:39:02] Training [##################--] 94/100 (94%) skema D | window | loso2 | berjalan 16.9 menit
+[01:39:11] Training [###################-] 95/100 (95%) skema D | window | loso3 | berjalan 17.0 menit
+[01:39:43] Training [###################-] 96/100 (96%) skema D | window | loso4 | berjalan 17.6 menit
+[01:39:50] Training [###################-] 97/100 (97%) skema D | window | loso5 | berjalan 17.7 menit
+[01:39:59] Training [###################-] 98/100 (98%) skema D | window | loso6 | berjalan 17.8 menit
+[01:39:59] Training [###################-] 99/100 (99%) skema D | window | loso7 | berjalan 17.8 menit
+[01:39:59] Training [####################] 100/100 (100%) skema D | window | loso8 | berjalan 17.8 menit

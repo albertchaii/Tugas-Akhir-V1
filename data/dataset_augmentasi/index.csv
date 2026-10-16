@@ -1,0 +1,721 @@
+video_id,class,subject,salinan,path,frame_asli,frame_aug,augmentasi
+lpd1_01,Lat_Pulldown,1,asli,Lat_Pulldown/lpd1_01_asli.csv,89,89,(data asli)
+lpd1_01,Lat_Pulldown,1,aug1,Lat_Pulldown/lpd1_01_aug1.csv,89,106,rotasi +7°; kecepatan 89->106 frame
+lpd1_01,Lat_Pulldown,1,aug2,Lat_Pulldown/lpd1_01_aug2.csv,89,89,cermin; rotasi -3°
+lpd1_02,Lat_Pulldown,1,asli,Lat_Pulldown/lpd1_02_asli.csv,82,82,(data asli)
+lpd1_02,Lat_Pulldown,1,aug1,Lat_Pulldown/lpd1_02_aug1.csv,82,82,rotasi -2°
+lpd1_02,Lat_Pulldown,1,aug2,Lat_Pulldown/lpd1_02_aug2.csv,82,82,rotasi +5°; skala x1.00; noise
+lpd1_03,Lat_Pulldown,1,asli,Lat_Pulldown/lpd1_03_asli.csv,90,90,(data asli)
+lpd1_03,Lat_Pulldown,1,aug1,Lat_Pulldown/lpd1_03_aug1.csv,90,105,cermin; skala x0.96; kecepatan 90->105 frame; noise
+lpd1_03,Lat_Pulldown,1,aug2,Lat_Pulldown/lpd1_03_aug2.csv,90,90,cermin; rotasi +3°; keypoint hilang: left_knee
+lpd1_04,Lat_Pulldown,1,asli,Lat_Pulldown/lpd1_04_asli.csv,85,85,(data asli)
+lpd1_04,Lat_Pulldown,1,aug1,Lat_Pulldown/lpd1_04_aug1.csv,85,85,cermin
+lpd1_04,Lat_Pulldown,1,aug2,Lat_Pulldown/lpd1_04_aug2.csv,85,85,cermin; skala x1.09; noise; keypoint hilang: left_wrist
+lpd1_05,Lat_Pulldown,1,asli,Lat_Pulldown/lpd1_05_asli.csv,90,90,(data asli)
+lpd1_05,Lat_Pulldown,1,aug1,Lat_Pulldown/lpd1_05_aug1.csv,90,90,rotasi +10°; skala x0.91; noise
+lpd1_05,Lat_Pulldown,1,aug2,Lat_Pulldown/lpd1_05_aug2.csv,90,78,kecepatan 90->78 frame
+lpd1_06,Lat_Pulldown,1,asli,Lat_Pulldown/lpd1_06_asli.csv,84,84,(data asli)
+lpd1_06,Lat_Pulldown,1,aug1,Lat_Pulldown/lpd1_06_aug1.csv,84,84,cermin; skala x0.93; noise
+lpd1_06,Lat_Pulldown,1,aug2,Lat_Pulldown/lpd1_06_aug2.csv,84,84,rotasi +6°; noise
+lpd1_07,Lat_Pulldown,1,asli,Lat_Pulldown/lpd1_07_asli.csv,94,94,(data asli)
+lpd1_07,Lat_Pulldown,1,aug1,Lat_Pulldown/lpd1_07_aug1.csv,94,90,cermin; rotasi +5°; kecepatan 94->90 frame; noise
+lpd1_07,Lat_Pulldown,1,aug2,Lat_Pulldown/lpd1_07_aug2.csv,94,94,cermin; rotasi +4°; keypoint hilang: left_knee
+lpd1_08,Lat_Pulldown,1,asli,Lat_Pulldown/lpd1_08_asli.csv,85,85,(data asli)
+lpd1_08,Lat_Pulldown,1,aug1,Lat_Pulldown/lpd1_08_aug1.csv,85,85,rotasi +0°; noise
+lpd1_08,Lat_Pulldown,1,aug2,Lat_Pulldown/lpd1_08_aug2.csv,85,99,"rotasi +8°; kecepatan 85->99 frame; noise; keypoint hilang: left_wrist, right_knee"
+lpd2_01,Lat_Pulldown,2,asli,Lat_Pulldown/lpd2_01_asli.csv,72,72,(data asli)
+lpd2_01,Lat_Pulldown,2,aug1,Lat_Pulldown/lpd2_01_aug1.csv,72,72,skala x1.07; noise
+lpd2_01,Lat_Pulldown,2,aug2,Lat_Pulldown/lpd2_01_aug2.csv,72,72,noise; keypoint hilang: right_ankle
+lpd2_02,Lat_Pulldown,2,asli,Lat_Pulldown/lpd2_02_asli.csv,80,80,(data asli)
+lpd2_02,Lat_Pulldown,2,aug1,Lat_Pulldown/lpd2_02_aug1.csv,80,93,"kecepatan 80->93 frame; keypoint hilang: left_wrist, left_elbow"
+lpd2_02,Lat_Pulldown,2,aug2,Lat_Pulldown/lpd2_02_aug2.csv,80,68,cermin; kecepatan 80->68 frame; keypoint hilang: right_ankle
+lpd2_03,Lat_Pulldown,2,asli,Lat_Pulldown/lpd2_03_asli.csv,66,66,(data asli)
+lpd2_03,Lat_Pulldown,2,aug1,Lat_Pulldown/lpd2_03_aug1.csv,66,66,cermin
+lpd2_03,Lat_Pulldown,2,aug2,Lat_Pulldown/lpd2_03_aug2.csv,66,66,rotasi -0°; skala x1.10; noise
+lpd2_04,Lat_Pulldown,2,asli,Lat_Pulldown/lpd2_04_asli.csv,77,77,(data asli)
+lpd2_04,Lat_Pulldown,2,aug1,Lat_Pulldown/lpd2_04_aug1.csv,77,77,cermin; rotasi -2°; skala x0.93
+lpd2_04,Lat_Pulldown,2,aug2,Lat_Pulldown/lpd2_04_aug2.csv,77,77,cermin; skala x0.94
+lpd2_05,Lat_Pulldown,2,asli,Lat_Pulldown/lpd2_05_asli.csv,73,73,(data asli)
+lpd2_05,Lat_Pulldown,2,aug1,Lat_Pulldown/lpd2_05_aug1.csv,73,87,cermin; rotasi -1°; kecepatan 73->87 frame
+lpd2_05,Lat_Pulldown,2,aug2,Lat_Pulldown/lpd2_05_aug2.csv,73,73,cermin; skala x0.96; noise
+lpd2_06,Lat_Pulldown,2,asli,Lat_Pulldown/lpd2_06_asli.csv,66,66,(data asli)
+lpd2_06,Lat_Pulldown,2,aug1,Lat_Pulldown/lpd2_06_aug1.csv,66,66,cermin; skala x1.05
+lpd2_06,Lat_Pulldown,2,aug2,Lat_Pulldown/lpd2_06_aug2.csv,66,66,"rotasi -3°; keypoint hilang: left_elbow, left_wrist"
+lpd2_07,Lat_Pulldown,2,asli,Lat_Pulldown/lpd2_07_asli.csv,63,63,(data asli)
+lpd2_07,Lat_Pulldown,2,aug1,Lat_Pulldown/lpd2_07_aug1.csv,63,70,cermin; kecepatan 63->70 frame; noise
+lpd2_07,Lat_Pulldown,2,aug2,Lat_Pulldown/lpd2_07_aug2.csv,63,63,cermin
+lpd2_08,Lat_Pulldown,2,asli,Lat_Pulldown/lpd2_08_asli.csv,83,83,(data asli)
+lpd2_08,Lat_Pulldown,2,aug1,Lat_Pulldown/lpd2_08_aug1.csv,83,83,"cermin; rotasi -9°; noise; keypoint hilang: right_wrist, left_wrist"
+lpd2_08,Lat_Pulldown,2,aug2,Lat_Pulldown/lpd2_08_aug2.csv,83,83,cermin; rotasi +7°; noise
+lpd3_01,Lat_Pulldown,3,asli,Lat_Pulldown/lpd3_01_asli.csv,90,90,(data asli)
+lpd3_01,Lat_Pulldown,3,aug1,Lat_Pulldown/lpd3_01_aug1.csv,90,98,cermin; skala x0.96; kecepatan 90->98 frame
+lpd3_01,Lat_Pulldown,3,aug2,Lat_Pulldown/lpd3_01_aug2.csv,90,77,"skala x0.97; kecepatan 90->77 frame; keypoint hilang: right_wrist, right_knee"
+lpd3_02,Lat_Pulldown,3,asli,Lat_Pulldown/lpd3_02_asli.csv,88,88,(data asli)
+lpd3_02,Lat_Pulldown,3,aug1,Lat_Pulldown/lpd3_02_aug1.csv,88,88,cermin; noise
+lpd3_02,Lat_Pulldown,3,aug2,Lat_Pulldown/lpd3_02_aug2.csv,88,99,kecepatan 88->99 frame; noise
+lpd3_03,Lat_Pulldown,3,asli,Lat_Pulldown/lpd3_03_asli.csv,93,93,(data asli)
+lpd3_03,Lat_Pulldown,3,aug1,Lat_Pulldown/lpd3_03_aug1.csv,93,104,cermin; kecepatan 93->104 frame; noise
+lpd3_03,Lat_Pulldown,3,aug2,Lat_Pulldown/lpd3_03_aug2.csv,93,93,cermin; noise
+lpd3_04,Lat_Pulldown,3,asli,Lat_Pulldown/lpd3_04_asli.csv,91,91,(data asli)
+lpd3_04,Lat_Pulldown,3,aug1,Lat_Pulldown/lpd3_04_aug1.csv,91,91,cermin; keypoint hilang: right_wrist
+lpd3_04,Lat_Pulldown,3,aug2,Lat_Pulldown/lpd3_04_aug2.csv,91,91,skala x0.98; noise
+lpd3_05,Lat_Pulldown,3,asli,Lat_Pulldown/lpd3_05_asli.csv,91,91,(data asli)
+lpd3_05,Lat_Pulldown,3,aug1,Lat_Pulldown/lpd3_05_aug1.csv,91,76,rotasi +7°; kecepatan 91->76 frame; noise
+lpd3_05,Lat_Pulldown,3,aug2,Lat_Pulldown/lpd3_05_aug2.csv,91,91,skala x1.00
+lpd3_06,Lat_Pulldown,3,asli,Lat_Pulldown/lpd3_06_asli.csv,90,90,(data asli)
+lpd3_06,Lat_Pulldown,3,aug1,Lat_Pulldown/lpd3_06_aug1.csv,90,79,cermin; rotasi +1°; kecepatan 90->79 frame
+lpd3_06,Lat_Pulldown,3,aug2,Lat_Pulldown/lpd3_06_aug2.csv,90,73,rotasi -8°; kecepatan 90->73 frame; noise
+lpd3_07,Lat_Pulldown,3,asli,Lat_Pulldown/lpd3_07_asli.csv,85,85,(data asli)
+lpd3_07,Lat_Pulldown,3,aug1,Lat_Pulldown/lpd3_07_aug1.csv,85,85,cermin; keypoint hilang: right_ankle
+lpd3_07,Lat_Pulldown,3,aug2,Lat_Pulldown/lpd3_07_aug2.csv,85,85,cermin
+lpd3_08,Lat_Pulldown,3,asli,Lat_Pulldown/lpd3_08_asli.csv,81,81,(data asli)
+lpd3_08,Lat_Pulldown,3,aug1,Lat_Pulldown/lpd3_08_aug1.csv,81,81,rotasi -9°; skala x0.99; noise; keypoint hilang: right_ankle
+lpd3_08,Lat_Pulldown,3,aug2,Lat_Pulldown/lpd3_08_aug2.csv,81,76,cermin; rotasi -9°; skala x0.92; kecepatan 81->76 frame
+lpd4_01,Lat_Pulldown,4,asli,Lat_Pulldown/lpd4_01_asli.csv,78,78,(data asli)
+lpd4_01,Lat_Pulldown,4,aug1,Lat_Pulldown/lpd4_01_aug1.csv,78,78,(tidak ada)
+lpd4_01,Lat_Pulldown,4,aug2,Lat_Pulldown/lpd4_01_aug2.csv,78,78,cermin; rotasi -6°; skala x0.91; noise
+lpd4_02,Lat_Pulldown,4,asli,Lat_Pulldown/lpd4_02_asli.csv,91,91,(data asli)
+lpd4_02,Lat_Pulldown,4,aug1,Lat_Pulldown/lpd4_02_aug1.csv,91,91,"skala x0.97; noise; keypoint hilang: left_knee, left_ankle"
+lpd4_02,Lat_Pulldown,4,aug2,Lat_Pulldown/lpd4_02_aug2.csv,91,88,skala x1.02; kecepatan 91->88 frame; noise
+lpd4_03,Lat_Pulldown,4,asli,Lat_Pulldown/lpd4_03_asli.csv,91,91,(data asli)
+lpd4_03,Lat_Pulldown,4,aug1,Lat_Pulldown/lpd4_03_aug1.csv,91,80,rotasi +3°; kecepatan 91->80 frame; noise
+lpd4_03,Lat_Pulldown,4,aug2,Lat_Pulldown/lpd4_03_aug2.csv,91,101,cermin; kecepatan 91->101 frame; keypoint hilang: right_elbow
+lpd4_04,Lat_Pulldown,4,asli,Lat_Pulldown/lpd4_04_asli.csv,88,88,(data asli)
+lpd4_04,Lat_Pulldown,4,aug1,Lat_Pulldown/lpd4_04_aug1.csv,88,88,"cermin; skala x0.95; noise; keypoint hilang: left_knee, right_knee"
+lpd4_04,Lat_Pulldown,4,aug2,Lat_Pulldown/lpd4_04_aug2.csv,88,88,cermin; rotasi +5°
+lpd4_05,Lat_Pulldown,4,asli,Lat_Pulldown/lpd4_05_asli.csv,82,82,(data asli)
+lpd4_05,Lat_Pulldown,4,aug1,Lat_Pulldown/lpd4_05_aug1.csv,82,68,cermin; skala x0.93; kecepatan 82->68 frame
+lpd4_05,Lat_Pulldown,4,aug2,Lat_Pulldown/lpd4_05_aug2.csv,82,82,noise
+lpd4_06,Lat_Pulldown,4,asli,Lat_Pulldown/lpd4_06_asli.csv,82,82,(data asli)
+lpd4_06,Lat_Pulldown,4,aug1,Lat_Pulldown/lpd4_06_aug1.csv,82,75,kecepatan 82->75 frame; noise
+lpd4_06,Lat_Pulldown,4,aug2,Lat_Pulldown/lpd4_06_aug2.csv,82,70,kecepatan 82->70 frame; noise
+lpd4_07,Lat_Pulldown,4,asli,Lat_Pulldown/lpd4_07_asli.csv,87,87,(data asli)
+lpd4_07,Lat_Pulldown,4,aug1,Lat_Pulldown/lpd4_07_aug1.csv,87,87,rotasi -6°; skala x0.94; noise
+lpd4_07,Lat_Pulldown,4,aug2,Lat_Pulldown/lpd4_07_aug2.csv,87,71,kecepatan 87->71 frame; noise
+lpd4_08,Lat_Pulldown,4,asli,Lat_Pulldown/lpd4_08_asli.csv,91,91,(data asli)
+lpd4_08,Lat_Pulldown,4,aug1,Lat_Pulldown/lpd4_08_aug1.csv,91,79,rotasi -1°; kecepatan 91->79 frame; noise; keypoint hilang: left_wrist
+lpd4_08,Lat_Pulldown,4,aug2,Lat_Pulldown/lpd4_08_aug2.csv,91,94,cermin; rotasi -9°; skala x0.96; kecepatan 91->94 frame; noise
+lpd5_01,Lat_Pulldown,5,asli,Lat_Pulldown/lpd5_01_asli.csv,97,97,(data asli)
+lpd5_01,Lat_Pulldown,5,aug1,Lat_Pulldown/lpd5_01_aug1.csv,97,79,cermin; rotasi +1°; skala x1.06; kecepatan 97->79 frame
+lpd5_01,Lat_Pulldown,5,aug2,Lat_Pulldown/lpd5_01_aug2.csv,97,79,"cermin; rotasi +7°; skala x1.09; kecepatan 97->79 frame; keypoint hilang: right_elbow, right_knee"
+lpd5_02,Lat_Pulldown,5,asli,Lat_Pulldown/lpd5_02_asli.csv,93,93,(data asli)
+lpd5_02,Lat_Pulldown,5,aug1,Lat_Pulldown/lpd5_02_aug1.csv,93,109,cermin; rotasi +6°; skala x0.98; kecepatan 93->109 frame
+lpd5_02,Lat_Pulldown,5,aug2,Lat_Pulldown/lpd5_02_aug2.csv,93,93,rotasi -4°; noise
+lpd5_03,Lat_Pulldown,5,asli,Lat_Pulldown/lpd5_03_asli.csv,100,100,(data asli)
+lpd5_03,Lat_Pulldown,5,aug1,Lat_Pulldown/lpd5_03_aug1.csv,100,119,"rotasi -3°; skala x1.07; kecepatan 100->119 frame; noise; keypoint hilang: right_elbow, right_knee"
+lpd5_03,Lat_Pulldown,5,aug2,Lat_Pulldown/lpd5_03_aug2.csv,100,82,skala x0.95; kecepatan 100->82 frame; noise
+lpd5_04,Lat_Pulldown,5,asli,Lat_Pulldown/lpd5_04_asli.csv,83,83,(data asli)
+lpd5_04,Lat_Pulldown,5,aug1,Lat_Pulldown/lpd5_04_aug1.csv,83,83,cermin
+lpd5_04,Lat_Pulldown,5,aug2,Lat_Pulldown/lpd5_04_aug2.csv,83,83,"keypoint hilang: left_elbow, left_knee"
+lpd5_05,Lat_Pulldown,5,asli,Lat_Pulldown/lpd5_05_asli.csv,100,100,(data asli)
+lpd5_05,Lat_Pulldown,5,aug1,Lat_Pulldown/lpd5_05_aug1.csv,100,97,cermin; kecepatan 100->97 frame; noise
+lpd5_05,Lat_Pulldown,5,aug2,Lat_Pulldown/lpd5_05_aug2.csv,100,102,"rotasi -1°; skala x1.05; kecepatan 100->102 frame; keypoint hilang: left_elbow, left_ankle"
+lpd5_06,Lat_Pulldown,5,asli,Lat_Pulldown/lpd5_06_asli.csv,92,92,(data asli)
+lpd5_06,Lat_Pulldown,5,aug1,Lat_Pulldown/lpd5_06_aug1.csv,92,92,"cermin; rotasi -3°; skala x1.09; noise; keypoint hilang: right_ankle, left_wrist"
+lpd5_06,Lat_Pulldown,5,aug2,Lat_Pulldown/lpd5_06_aug2.csv,92,92,cermin; noise
+lpd5_07,Lat_Pulldown,5,asli,Lat_Pulldown/lpd5_07_asli.csv,97,97,(data asli)
+lpd5_07,Lat_Pulldown,5,aug1,Lat_Pulldown/lpd5_07_aug1.csv,97,97,noise
+lpd5_07,Lat_Pulldown,5,aug2,Lat_Pulldown/lpd5_07_aug2.csv,97,96,cermin; skala x1.03; kecepatan 97->96 frame
+lpd5_08,Lat_Pulldown,5,asli,Lat_Pulldown/lpd5_08_asli.csv,92,92,(data asli)
+lpd5_08,Lat_Pulldown,5,aug1,Lat_Pulldown/lpd5_08_aug1.csv,92,92,skala x1.00; noise; keypoint hilang: right_ankle
+lpd5_08,Lat_Pulldown,5,aug2,Lat_Pulldown/lpd5_08_aug2.csv,92,86,cermin; kecepatan 92->86 frame; noise
+lpd6_01,Lat_Pulldown,6,asli,Lat_Pulldown/lpd6_01_asli.csv,91,91,(data asli)
+lpd6_01,Lat_Pulldown,6,aug1,Lat_Pulldown/lpd6_01_aug1.csv,91,83,cermin; rotasi -9°; kecepatan 91->83 frame; noise
+lpd6_01,Lat_Pulldown,6,aug2,Lat_Pulldown/lpd6_01_aug2.csv,91,91,rotasi +1°; noise
+lpd6_02,Lat_Pulldown,6,asli,Lat_Pulldown/lpd6_02_asli.csv,93,93,(data asli)
+lpd6_02,Lat_Pulldown,6,aug1,Lat_Pulldown/lpd6_02_aug1.csv,93,82,cermin; skala x1.01; kecepatan 93->82 frame
+lpd6_02,Lat_Pulldown,6,aug2,Lat_Pulldown/lpd6_02_aug2.csv,93,92,cermin; rotasi +4°; skala x1.05; kecepatan 93->92 frame; noise
+lpd6_03,Lat_Pulldown,6,asli,Lat_Pulldown/lpd6_03_asli.csv,93,93,(data asli)
+lpd6_03,Lat_Pulldown,6,aug1,Lat_Pulldown/lpd6_03_aug1.csv,93,96,rotasi -2°; skala x0.91; kecepatan 93->96 frame; noise; keypoint hilang: left_ankle
+lpd6_03,Lat_Pulldown,6,aug2,Lat_Pulldown/lpd6_03_aug2.csv,93,93,cermin; rotasi +1°; skala x0.98
+lpd6_04,Lat_Pulldown,6,asli,Lat_Pulldown/lpd6_04_asli.csv,91,91,(data asli)
+lpd6_04,Lat_Pulldown,6,aug1,Lat_Pulldown/lpd6_04_aug1.csv,91,91,cermin; noise
+lpd6_04,Lat_Pulldown,6,aug2,Lat_Pulldown/lpd6_04_aug2.csv,91,109,skala x0.98; kecepatan 91->109 frame; noise
+lpd6_05,Lat_Pulldown,6,asli,Lat_Pulldown/lpd6_05_asli.csv,93,93,(data asli)
+lpd6_05,Lat_Pulldown,6,aug1,Lat_Pulldown/lpd6_05_aug1.csv,93,83,rotasi -4°; kecepatan 93->83 frame
+lpd6_05,Lat_Pulldown,6,aug2,Lat_Pulldown/lpd6_05_aug2.csv,93,83,cermin; skala x0.94; kecepatan 93->83 frame
+lpd6_06,Lat_Pulldown,6,asli,Lat_Pulldown/lpd6_06_asli.csv,92,92,(data asli)
+lpd6_06,Lat_Pulldown,6,aug1,Lat_Pulldown/lpd6_06_aug1.csv,92,102,cermin; skala x0.96; kecepatan 92->102 frame
+lpd6_06,Lat_Pulldown,6,aug2,Lat_Pulldown/lpd6_06_aug2.csv,92,92,cermin; rotasi -6°; noise; keypoint hilang: right_elbow
+lpd6_07,Lat_Pulldown,6,asli,Lat_Pulldown/lpd6_07_asli.csv,90,90,(data asli)
+lpd6_07,Lat_Pulldown,6,aug1,Lat_Pulldown/lpd6_07_aug1.csv,90,90,"keypoint hilang: right_knee, left_wrist"
+lpd6_07,Lat_Pulldown,6,aug2,Lat_Pulldown/lpd6_07_aug2.csv,90,97,"skala x1.09; kecepatan 90->97 frame; keypoint hilang: right_knee, left_knee"
+lpd6_08,Lat_Pulldown,6,asli,Lat_Pulldown/lpd6_08_asli.csv,91,91,(data asli)
+lpd6_08,Lat_Pulldown,6,aug1,Lat_Pulldown/lpd6_08_aug1.csv,91,91,rotasi -7°; skala x1.08; noise
+lpd6_08,Lat_Pulldown,6,aug2,Lat_Pulldown/lpd6_08_aug2.csv,91,93,skala x0.97; kecepatan 91->93 frame
+lpd7_01,Lat_Pulldown,7,asli,Lat_Pulldown/lpd7_01_asli.csv,64,64,(data asli)
+lpd7_01,Lat_Pulldown,7,aug1,Lat_Pulldown/lpd7_01_aug1.csv,64,61,cermin; rotasi -0°; skala x0.94; kecepatan 64->61 frame; noise
+lpd7_01,Lat_Pulldown,7,aug2,Lat_Pulldown/lpd7_01_aug2.csv,64,53,cermin; kecepatan 64->53 frame
+lpd7_02,Lat_Pulldown,7,asli,Lat_Pulldown/lpd7_02_asli.csv,64,64,(data asli)
+lpd7_02,Lat_Pulldown,7,aug1,Lat_Pulldown/lpd7_02_aug1.csv,64,75,"cermin; rotasi +0°; skala x0.91; kecepatan 64->75 frame; noise; keypoint hilang: left_wrist, right_knee"
+lpd7_02,Lat_Pulldown,7,aug2,Lat_Pulldown/lpd7_02_aug2.csv,64,64,cermin; rotasi +8°; skala x1.07
+lpd7_03,Lat_Pulldown,7,asli,Lat_Pulldown/lpd7_03_asli.csv,57,57,(data asli)
+lpd7_03,Lat_Pulldown,7,aug1,Lat_Pulldown/lpd7_03_aug1.csv,57,57,skala x0.98
+lpd7_03,Lat_Pulldown,7,aug2,Lat_Pulldown/lpd7_03_aug2.csv,57,57,rotasi +0°; noise
+lpd7_04,Lat_Pulldown,7,asli,Lat_Pulldown/lpd7_04_asli.csv,67,67,(data asli)
+lpd7_04,Lat_Pulldown,7,aug1,Lat_Pulldown/lpd7_04_aug1.csv,67,64,rotasi +9°; skala x1.09; kecepatan 67->64 frame; noise; keypoint hilang: left_knee
+lpd7_04,Lat_Pulldown,7,aug2,Lat_Pulldown/lpd7_04_aug2.csv,67,78,cermin; rotasi -1°; kecepatan 67->78 frame; keypoint hilang: left_wrist
+lpd7_05,Lat_Pulldown,7,asli,Lat_Pulldown/lpd7_05_asli.csv,61,61,(data asli)
+lpd7_05,Lat_Pulldown,7,aug1,Lat_Pulldown/lpd7_05_aug1.csv,61,73,rotasi -5°; kecepatan 61->73 frame; noise
+lpd7_05,Lat_Pulldown,7,aug2,Lat_Pulldown/lpd7_05_aug2.csv,61,61,"cermin; rotasi +1°; skala x0.96; keypoint hilang: left_ankle, right_elbow"
+lpd7_06,Lat_Pulldown,7,asli,Lat_Pulldown/lpd7_06_asli.csv,61,61,(data asli)
+lpd7_06,Lat_Pulldown,7,aug1,Lat_Pulldown/lpd7_06_aug1.csv,61,56,kecepatan 61->56 frame
+lpd7_06,Lat_Pulldown,7,aug2,Lat_Pulldown/lpd7_06_aug2.csv,61,69,rotasi +7°; skala x0.97; kecepatan 61->69 frame; noise
+lpd7_07,Lat_Pulldown,7,asli,Lat_Pulldown/lpd7_07_asli.csv,60,60,(data asli)
+lpd7_07,Lat_Pulldown,7,aug1,Lat_Pulldown/lpd7_07_aug1.csv,60,57,cermin; rotasi +3°; kecepatan 60->57 frame
+lpd7_07,Lat_Pulldown,7,aug2,Lat_Pulldown/lpd7_07_aug2.csv,60,57,"cermin; skala x1.00; kecepatan 60->57 frame; keypoint hilang: right_ankle, right_knee"
+lpd7_08,Lat_Pulldown,7,asli,Lat_Pulldown/lpd7_08_asli.csv,60,60,(data asli)
+lpd7_08,Lat_Pulldown,7,aug1,Lat_Pulldown/lpd7_08_aug1.csv,60,60,cermin; skala x0.97
+lpd7_08,Lat_Pulldown,7,aug2,Lat_Pulldown/lpd7_08_aug2.csv,60,55,cermin; rotasi -7°; skala x0.90; kecepatan 60->55 frame; keypoint hilang: right_ankle
+lpd8_01,Lat_Pulldown,8,asli,Lat_Pulldown/lpd8_01_asli.csv,75,75,(data asli)
+lpd8_01,Lat_Pulldown,8,aug1,Lat_Pulldown/lpd8_01_aug1.csv,75,75,cermin; skala x1.03
+lpd8_01,Lat_Pulldown,8,aug2,Lat_Pulldown/lpd8_01_aug2.csv,75,75,"rotasi -9°; skala x0.96; noise; keypoint hilang: left_elbow, left_knee"
+lpd8_02,Lat_Pulldown,8,asli,Lat_Pulldown/lpd8_02_asli.csv,78,78,(data asli)
+lpd8_02,Lat_Pulldown,8,aug1,Lat_Pulldown/lpd8_02_aug1.csv,78,69,cermin; rotasi +4°; kecepatan 78->69 frame
+lpd8_02,Lat_Pulldown,8,aug2,Lat_Pulldown/lpd8_02_aug2.csv,78,73,cermin; kecepatan 78->73 frame
+lpd8_03,Lat_Pulldown,8,asli,Lat_Pulldown/lpd8_03_asli.csv,69,69,(data asli)
+lpd8_03,Lat_Pulldown,8,aug1,Lat_Pulldown/lpd8_03_aug1.csv,69,69,"noise; keypoint hilang: right_wrist, right_ankle"
+lpd8_03,Lat_Pulldown,8,aug2,Lat_Pulldown/lpd8_03_aug2.csv,69,57,kecepatan 69->57 frame
+lpd8_04,Lat_Pulldown,8,asli,Lat_Pulldown/lpd8_04_asli.csv,91,91,(data asli)
+lpd8_04,Lat_Pulldown,8,aug1,Lat_Pulldown/lpd8_04_aug1.csv,91,106,"rotasi +9°; kecepatan 91->106 frame; noise; keypoint hilang: right_wrist, right_knee"
+lpd8_04,Lat_Pulldown,8,aug2,Lat_Pulldown/lpd8_04_aug2.csv,91,91,skala x0.97; noise
+lpd8_05,Lat_Pulldown,8,asli,Lat_Pulldown/lpd8_05_asli.csv,85,85,(data asli)
+lpd8_05,Lat_Pulldown,8,aug1,Lat_Pulldown/lpd8_05_aug1.csv,85,76,cermin; rotasi -4°; skala x1.10; kecepatan 85->76 frame; noise
+lpd8_05,Lat_Pulldown,8,aug2,Lat_Pulldown/lpd8_05_aug2.csv,85,94,"skala x1.06; kecepatan 85->94 frame; keypoint hilang: left_elbow, right_knee"
+lpd8_06,Lat_Pulldown,8,asli,Lat_Pulldown/lpd8_06_asli.csv,85,85,(data asli)
+lpd8_06,Lat_Pulldown,8,aug1,Lat_Pulldown/lpd8_06_aug1.csv,85,81,rotasi +2°; skala x1.09; kecepatan 85->81 frame
+lpd8_06,Lat_Pulldown,8,aug2,Lat_Pulldown/lpd8_06_aug2.csv,85,85,noise
+lpd8_07,Lat_Pulldown,8,asli,Lat_Pulldown/lpd8_07_asli.csv,81,81,(data asli)
+lpd8_07,Lat_Pulldown,8,aug1,Lat_Pulldown/lpd8_07_aug1.csv,81,81,cermin; noise
+lpd8_07,Lat_Pulldown,8,aug2,Lat_Pulldown/lpd8_07_aug2.csv,81,74,"skala x0.96; kecepatan 81->74 frame; keypoint hilang: right_elbow, left_ankle"
+lpd8_08,Lat_Pulldown,8,asli,Lat_Pulldown/lpd8_08_asli.csv,78,78,(data asli)
+lpd8_08,Lat_Pulldown,8,aug1,Lat_Pulldown/lpd8_08_aug1.csv,78,90,cermin; rotasi -3°; skala x1.09; kecepatan 78->90 frame; noise
+lpd8_08,Lat_Pulldown,8,aug2,Lat_Pulldown/lpd8_08_aug2.csv,78,89,kecepatan 78->89 frame; noise
+lpd9_01,Lat_Pulldown,9,asli,Lat_Pulldown/lpd9_01_asli.csv,77,77,(data asli)
+lpd9_01,Lat_Pulldown,9,aug1,Lat_Pulldown/lpd9_01_aug1.csv,77,66,rotasi -4°; kecepatan 77->66 frame; noise
+lpd9_01,Lat_Pulldown,9,aug2,Lat_Pulldown/lpd9_01_aug2.csv,77,77,cermin
+lpd9_02,Lat_Pulldown,9,asli,Lat_Pulldown/lpd9_02_asli.csv,69,69,(data asli)
+lpd9_02,Lat_Pulldown,9,aug1,Lat_Pulldown/lpd9_02_aug1.csv,69,69,cermin; noise
+lpd9_02,Lat_Pulldown,9,aug2,Lat_Pulldown/lpd9_02_aug2.csv,69,74,rotasi +0°; skala x0.93; kecepatan 69->74 frame; noise
+lpd9_03,Lat_Pulldown,9,asli,Lat_Pulldown/lpd9_03_asli.csv,69,69,(data asli)
+lpd9_03,Lat_Pulldown,9,aug1,Lat_Pulldown/lpd9_03_aug1.csv,69,71,cermin; kecepatan 69->71 frame; keypoint hilang: right_wrist
+lpd9_03,Lat_Pulldown,9,aug2,Lat_Pulldown/lpd9_03_aug2.csv,69,69,cermin; rotasi +8°; noise
+lpd9_04,Lat_Pulldown,9,asli,Lat_Pulldown/lpd9_04_asli.csv,65,65,(data asli)
+lpd9_04,Lat_Pulldown,9,aug1,Lat_Pulldown/lpd9_04_aug1.csv,65,65,"rotasi +9°; skala x0.96; keypoint hilang: right_ankle, left_knee"
+lpd9_04,Lat_Pulldown,9,aug2,Lat_Pulldown/lpd9_04_aug2.csv,65,69,cermin; rotasi -10°; skala x0.92; kecepatan 65->69 frame; noise
+lpd9_05,Lat_Pulldown,9,asli,Lat_Pulldown/lpd9_05_asli.csv,65,65,(data asli)
+lpd9_05,Lat_Pulldown,9,aug1,Lat_Pulldown/lpd9_05_aug1.csv,65,65,rotasi -8°
+lpd9_05,Lat_Pulldown,9,aug2,Lat_Pulldown/lpd9_05_aug2.csv,65,71,rotasi -2°; skala x0.90; kecepatan 65->71 frame
+lpd9_06,Lat_Pulldown,9,asli,Lat_Pulldown/lpd9_06_asli.csv,67,67,(data asli)
+lpd9_06,Lat_Pulldown,9,aug1,Lat_Pulldown/lpd9_06_aug1.csv,67,67,cermin; noise
+lpd9_06,Lat_Pulldown,9,aug2,Lat_Pulldown/lpd9_06_aug2.csv,67,76,kecepatan 67->76 frame; keypoint hilang: right_elbow
+lpd9_07,Lat_Pulldown,9,asli,Lat_Pulldown/lpd9_07_asli.csv,67,67,(data asli)
+lpd9_07,Lat_Pulldown,9,aug1,Lat_Pulldown/lpd9_07_aug1.csv,67,67,rotasi -5°; noise
+lpd9_07,Lat_Pulldown,9,aug2,Lat_Pulldown/lpd9_07_aug2.csv,67,59,cermin; rotasi -7°; skala x0.96; kecepatan 67->59 frame
+lpd9_08,Lat_Pulldown,9,asli,Lat_Pulldown/lpd9_08_asli.csv,78,78,(data asli)
+lpd9_08,Lat_Pulldown,9,aug1,Lat_Pulldown/lpd9_08_aug1.csv,78,90,cermin; rotasi -9°; kecepatan 78->90 frame; keypoint hilang: left_elbow
+lpd9_08,Lat_Pulldown,9,aug2,Lat_Pulldown/lpd9_08_aug2.csv,78,81,cermin; rotasi -4°; skala x1.08; kecepatan 78->81 frame
+lpd10_01,Lat_Pulldown,10,asli,Lat_Pulldown/lpd10_01_asli.csv,90,90,(data asli)
+lpd10_01,Lat_Pulldown,10,aug1,Lat_Pulldown/lpd10_01_aug1.csv,90,73,cermin; rotasi +6°; skala x0.99; kecepatan 90->73 frame; noise
+lpd10_01,Lat_Pulldown,10,aug2,Lat_Pulldown/lpd10_01_aug2.csv,90,78,cermin; rotasi +4°; kecepatan 90->78 frame; noise
+lpd10_02,Lat_Pulldown,10,asli,Lat_Pulldown/lpd10_02_asli.csv,74,74,(data asli)
+lpd10_02,Lat_Pulldown,10,aug1,Lat_Pulldown/lpd10_02_aug1.csv,74,78,cermin; kecepatan 74->78 frame; noise
+lpd10_02,Lat_Pulldown,10,aug2,Lat_Pulldown/lpd10_02_aug2.csv,74,74,cermin
+lpd10_03,Lat_Pulldown,10,asli,Lat_Pulldown/lpd10_03_asli.csv,71,71,(data asli)
+lpd10_03,Lat_Pulldown,10,aug1,Lat_Pulldown/lpd10_03_aug1.csv,71,71,cermin; kecepatan 71->71 frame
+lpd10_03,Lat_Pulldown,10,aug2,Lat_Pulldown/lpd10_03_aug2.csv,71,71,"cermin; skala x1.03; noise; keypoint hilang: left_ankle, right_wrist"
+lpd10_04,Lat_Pulldown,10,asli,Lat_Pulldown/lpd10_04_asli.csv,66,66,(data asli)
+lpd10_04,Lat_Pulldown,10,aug1,Lat_Pulldown/lpd10_04_aug1.csv,66,66,cermin; rotasi +0°; skala x0.93; noise; keypoint hilang: left_elbow
+lpd10_04,Lat_Pulldown,10,aug2,Lat_Pulldown/lpd10_04_aug2.csv,66,69,rotasi +3°; skala x1.10; kecepatan 66->69 frame; noise
+lpd10_05,Lat_Pulldown,10,asli,Lat_Pulldown/lpd10_05_asli.csv,64,64,(data asli)
+lpd10_05,Lat_Pulldown,10,aug1,Lat_Pulldown/lpd10_05_aug1.csv,64,65,rotasi +8°; skala x0.91; kecepatan 64->65 frame; noise
+lpd10_05,Lat_Pulldown,10,aug2,Lat_Pulldown/lpd10_05_aug2.csv,64,67,"rotasi -2°; kecepatan 64->67 frame; noise; keypoint hilang: left_elbow, right_elbow"
+lpd10_06,Lat_Pulldown,10,asli,Lat_Pulldown/lpd10_06_asli.csv,69,69,(data asli)
+lpd10_06,Lat_Pulldown,10,aug1,Lat_Pulldown/lpd10_06_aug1.csv,69,69,cermin; skala x1.08; kecepatan 69->69 frame; noise
+lpd10_06,Lat_Pulldown,10,aug2,Lat_Pulldown/lpd10_06_aug2.csv,69,60,"rotasi +1°; kecepatan 69->60 frame; keypoint hilang: right_ankle, left_ankle"
+lpd10_07,Lat_Pulldown,10,asli,Lat_Pulldown/lpd10_07_asli.csv,72,72,(data asli)
+lpd10_07,Lat_Pulldown,10,aug1,Lat_Pulldown/lpd10_07_aug1.csv,72,72,cermin; skala x1.00
+lpd10_07,Lat_Pulldown,10,aug2,Lat_Pulldown/lpd10_07_aug2.csv,72,72,rotasi +7°; noise
+lpd10_08,Lat_Pulldown,10,asli,Lat_Pulldown/lpd10_08_asli.csv,66,66,(data asli)
+lpd10_08,Lat_Pulldown,10,aug1,Lat_Pulldown/lpd10_08_aug1.csv,66,56,cermin; skala x1.04; kecepatan 66->56 frame; noise
+lpd10_08,Lat_Pulldown,10,aug2,Lat_Pulldown/lpd10_08_aug2.csv,66,66,cermin; skala x0.98; noise
+scr1_01,Seated_Cable_Row,1,asli,Seated_Cable_Row/scr1_01_asli.csv,73,73,(data asli)
+scr1_01,Seated_Cable_Row,1,aug1,Seated_Cable_Row/scr1_01_aug1.csv,73,73,cermin; rotasi -3°
+scr1_01,Seated_Cable_Row,1,aug2,Seated_Cable_Row/scr1_01_aug2.csv,73,73,rotasi +3°; noise
+scr1_02,Seated_Cable_Row,1,asli,Seated_Cable_Row/scr1_02_asli.csv,67,67,(data asli)
+scr1_02,Seated_Cable_Row,1,aug1,Seated_Cable_Row/scr1_02_aug1.csv,67,72,cermin; skala x1.02; kecepatan 67->72 frame; keypoint hilang: right_wrist
+scr1_02,Seated_Cable_Row,1,aug2,Seated_Cable_Row/scr1_02_aug2.csv,67,70,skala x1.07; kecepatan 67->70 frame
+scr1_03,Seated_Cable_Row,1,asli,Seated_Cable_Row/scr1_03_asli.csv,74,74,(data asli)
+scr1_03,Seated_Cable_Row,1,aug1,Seated_Cable_Row/scr1_03_aug1.csv,74,64,rotasi +7°; skala x1.05; kecepatan 74->64 frame; noise; keypoint hilang: right_wrist
+scr1_03,Seated_Cable_Row,1,aug2,Seated_Cable_Row/scr1_03_aug2.csv,74,74,rotasi -8°; noise
+scr1_04,Seated_Cable_Row,1,asli,Seated_Cable_Row/scr1_04_asli.csv,76,76,(data asli)
+scr1_04,Seated_Cable_Row,1,aug1,Seated_Cable_Row/scr1_04_aug1.csv,76,61,cermin; skala x1.01; kecepatan 76->61 frame
+scr1_04,Seated_Cable_Row,1,aug2,Seated_Cable_Row/scr1_04_aug2.csv,76,76,cermin; keypoint hilang: right_knee
+scr1_05,Seated_Cable_Row,1,asli,Seated_Cable_Row/scr1_05_asli.csv,71,71,(data asli)
+scr1_05,Seated_Cable_Row,1,aug1,Seated_Cable_Row/scr1_05_aug1.csv,71,71,rotasi +6°; skala x1.00
+scr1_05,Seated_Cable_Row,1,aug2,Seated_Cable_Row/scr1_05_aug2.csv,71,80,kecepatan 71->80 frame; noise; keypoint hilang: right_knee
+scr1_06,Seated_Cable_Row,1,asli,Seated_Cable_Row/scr1_06_asli.csv,69,69,(data asli)
+scr1_06,Seated_Cable_Row,1,aug1,Seated_Cable_Row/scr1_06_aug1.csv,69,71,rotasi -3°; kecepatan 69->71 frame; noise
+scr1_06,Seated_Cable_Row,1,aug2,Seated_Cable_Row/scr1_06_aug2.csv,69,69,rotasi +4°; noise
+scr1_07,Seated_Cable_Row,1,asli,Seated_Cable_Row/scr1_07_asli.csv,70,70,(data asli)
+scr1_07,Seated_Cable_Row,1,aug1,Seated_Cable_Row/scr1_07_aug1.csv,70,59,rotasi +7°; kecepatan 70->59 frame
+scr1_07,Seated_Cable_Row,1,aug2,Seated_Cable_Row/scr1_07_aug2.csv,70,70,cermin; noise
+scr1_08,Seated_Cable_Row,1,asli,Seated_Cable_Row/scr1_08_asli.csv,72,72,(data asli)
+scr1_08,Seated_Cable_Row,1,aug1,Seated_Cable_Row/scr1_08_aug1.csv,72,68,skala x0.90; kecepatan 72->68 frame; noise
+scr1_08,Seated_Cable_Row,1,aug2,Seated_Cable_Row/scr1_08_aug2.csv,72,85,cermin; kecepatan 72->85 frame
+scr2_01,Seated_Cable_Row,2,asli,Seated_Cable_Row/scr2_01_asli.csv,93,93,(data asli)
+scr2_01,Seated_Cable_Row,2,aug1,Seated_Cable_Row/scr2_01_aug1.csv,93,105,cermin; skala x1.10; kecepatan 93->105 frame; noise
+scr2_01,Seated_Cable_Row,2,aug2,Seated_Cable_Row/scr2_01_aug2.csv,93,85,cermin; rotasi +7°; skala x1.03; kecepatan 93->85 frame; noise
+scr2_02,Seated_Cable_Row,2,asli,Seated_Cable_Row/scr2_02_asli.csv,77,77,(data asli)
+scr2_02,Seated_Cable_Row,2,aug1,Seated_Cable_Row/scr2_02_aug1.csv,77,82,cermin; kecepatan 77->82 frame; noise
+scr2_02,Seated_Cable_Row,2,aug2,Seated_Cable_Row/scr2_02_aug2.csv,77,77,cermin; rotasi +4°; skala x0.98; noise
+scr2_03,Seated_Cable_Row,2,asli,Seated_Cable_Row/scr2_03_asli.csv,74,74,(data asli)
+scr2_03,Seated_Cable_Row,2,aug1,Seated_Cable_Row/scr2_03_aug1.csv,74,61,rotasi -10°; kecepatan 74->61 frame; noise
+scr2_03,Seated_Cable_Row,2,aug2,Seated_Cable_Row/scr2_03_aug2.csv,74,74,cermin; skala x0.93; keypoint hilang: right_knee
+scr2_04,Seated_Cable_Row,2,asli,Seated_Cable_Row/scr2_04_asli.csv,80,80,(data asli)
+scr2_04,Seated_Cable_Row,2,aug1,Seated_Cable_Row/scr2_04_aug1.csv,80,80,rotasi -8°; skala x0.93; noise
+scr2_04,Seated_Cable_Row,2,aug2,Seated_Cable_Row/scr2_04_aug2.csv,80,71,cermin; kecepatan 80->71 frame
+scr2_05,Seated_Cable_Row,2,asli,Seated_Cable_Row/scr2_05_asli.csv,78,78,(data asli)
+scr2_05,Seated_Cable_Row,2,aug1,Seated_Cable_Row/scr2_05_aug1.csv,78,78,skala x1.06; noise
+scr2_05,Seated_Cable_Row,2,aug2,Seated_Cable_Row/scr2_05_aug2.csv,78,78,rotasi -2°; skala x0.91; noise
+scr2_06,Seated_Cable_Row,2,asli,Seated_Cable_Row/scr2_06_asli.csv,94,94,(data asli)
+scr2_06,Seated_Cable_Row,2,aug1,Seated_Cable_Row/scr2_06_aug1.csv,94,94,cermin; noise; keypoint hilang: right_ankle
+scr2_06,Seated_Cable_Row,2,aug2,Seated_Cable_Row/scr2_06_aug2.csv,94,113,cermin; skala x1.04; kecepatan 94->113 frame
+scr2_07,Seated_Cable_Row,2,asli,Seated_Cable_Row/scr2_07_asli.csv,87,87,(data asli)
+scr2_07,Seated_Cable_Row,2,aug1,Seated_Cable_Row/scr2_07_aug1.csv,87,87,skala x0.91
+scr2_07,Seated_Cable_Row,2,aug2,Seated_Cable_Row/scr2_07_aug2.csv,87,90,cermin; rotasi -3°; skala x1.05; kecepatan 87->90 frame
+scr2_08,Seated_Cable_Row,2,asli,Seated_Cable_Row/scr2_08_asli.csv,82,82,(data asli)
+scr2_08,Seated_Cable_Row,2,aug1,Seated_Cable_Row/scr2_08_aug1.csv,82,95,kecepatan 82->95 frame; noise
+scr2_08,Seated_Cable_Row,2,aug2,Seated_Cable_Row/scr2_08_aug2.csv,82,82,cermin; rotasi -4°
+scr3_01,Seated_Cable_Row,3,asli,Seated_Cable_Row/scr3_01_asli.csv,80,80,(data asli)
+scr3_01,Seated_Cable_Row,3,aug1,Seated_Cable_Row/scr3_01_aug1.csv,80,80,cermin; rotasi -6°
+scr3_01,Seated_Cable_Row,3,aug2,Seated_Cable_Row/scr3_01_aug2.csv,80,80,cermin; rotasi -2°; skala x1.01; noise
+scr3_02,Seated_Cable_Row,3,asli,Seated_Cable_Row/scr3_02_asli.csv,63,63,(data asli)
+scr3_02,Seated_Cable_Row,3,aug1,Seated_Cable_Row/scr3_02_aug1.csv,63,63,noise
+scr3_02,Seated_Cable_Row,3,aug2,Seated_Cable_Row/scr3_02_aug2.csv,63,63,skala x0.97
+scr3_03,Seated_Cable_Row,3,asli,Seated_Cable_Row/scr3_03_asli.csv,74,74,(data asli)
+scr3_03,Seated_Cable_Row,3,aug1,Seated_Cable_Row/scr3_03_aug1.csv,74,74,noise
+scr3_03,Seated_Cable_Row,3,aug2,Seated_Cable_Row/scr3_03_aug2.csv,74,61,"cermin; rotasi -1°; skala x1.10; kecepatan 74->61 frame; keypoint hilang: right_wrist, right_knee"
+scr3_04,Seated_Cable_Row,3,asli,Seated_Cable_Row/scr3_04_asli.csv,76,76,(data asli)
+scr3_04,Seated_Cable_Row,3,aug1,Seated_Cable_Row/scr3_04_aug1.csv,76,80,rotasi -1°; kecepatan 76->80 frame; keypoint hilang: left_elbow
+scr3_04,Seated_Cable_Row,3,aug2,Seated_Cable_Row/scr3_04_aug2.csv,76,76,skala x0.93
+scr3_05,Seated_Cable_Row,3,asli,Seated_Cable_Row/scr3_05_asli.csv,70,70,(data asli)
+scr3_05,Seated_Cable_Row,3,aug1,Seated_Cable_Row/scr3_05_aug1.csv,70,70,"skala x1.05; keypoint hilang: left_wrist, right_wrist"
+scr3_05,Seated_Cable_Row,3,aug2,Seated_Cable_Row/scr3_05_aug2.csv,70,70,skala x0.99
+scr3_06,Seated_Cable_Row,3,asli,Seated_Cable_Row/scr3_06_asli.csv,77,77,(data asli)
+scr3_06,Seated_Cable_Row,3,aug1,Seated_Cable_Row/scr3_06_aug1.csv,77,88,rotasi -2°; kecepatan 77->88 frame
+scr3_06,Seated_Cable_Row,3,aug2,Seated_Cable_Row/scr3_06_aug2.csv,77,77,rotasi +1°; skala x1.02; noise
+scr3_07,Seated_Cable_Row,3,asli,Seated_Cable_Row/scr3_07_asli.csv,77,77,(data asli)
+scr3_07,Seated_Cable_Row,3,aug1,Seated_Cable_Row/scr3_07_aug1.csv,77,77,rotasi -10°; noise
+scr3_07,Seated_Cable_Row,3,aug2,Seated_Cable_Row/scr3_07_aug2.csv,77,63,cermin; rotasi -0°; skala x1.09; kecepatan 77->63 frame
+scr3_08,Seated_Cable_Row,3,asli,Seated_Cable_Row/scr3_08_asli.csv,76,76,(data asli)
+scr3_08,Seated_Cable_Row,3,aug1,Seated_Cable_Row/scr3_08_aug1.csv,76,76,cermin; kecepatan 76->76 frame
+scr3_08,Seated_Cable_Row,3,aug2,Seated_Cable_Row/scr3_08_aug2.csv,76,88,skala x1.04; kecepatan 76->88 frame
+scr4_01,Seated_Cable_Row,4,asli,Seated_Cable_Row/scr4_01_asli.csv,61,61,(data asli)
+scr4_01,Seated_Cable_Row,4,aug1,Seated_Cable_Row/scr4_01_aug1.csv,61,61,cermin; rotasi -4°; noise
+scr4_01,Seated_Cable_Row,4,aug2,Seated_Cable_Row/scr4_01_aug2.csv,61,62,cermin; skala x1.08; kecepatan 61->62 frame
+scr4_02,Seated_Cable_Row,4,asli,Seated_Cable_Row/scr4_02_asli.csv,68,68,(data asli)
+scr4_02,Seated_Cable_Row,4,aug1,Seated_Cable_Row/scr4_02_aug1.csv,68,75,cermin; rotasi +9°; kecepatan 68->75 frame; noise
+scr4_02,Seated_Cable_Row,4,aug2,Seated_Cable_Row/scr4_02_aug2.csv,68,68,cermin; skala x1.00; noise
+scr4_03,Seated_Cable_Row,4,asli,Seated_Cable_Row/scr4_03_asli.csv,63,63,(data asli)
+scr4_03,Seated_Cable_Row,4,aug1,Seated_Cable_Row/scr4_03_aug1.csv,63,63,skala x1.09; noise
+scr4_03,Seated_Cable_Row,4,aug2,Seated_Cable_Row/scr4_03_aug2.csv,63,63,"skala x1.06; noise; keypoint hilang: right_elbow, left_wrist"
+scr4_04,Seated_Cable_Row,4,asli,Seated_Cable_Row/scr4_04_asli.csv,64,64,(data asli)
+scr4_04,Seated_Cable_Row,4,aug1,Seated_Cable_Row/scr4_04_aug1.csv,64,64,cermin; rotasi +5°; kecepatan 64->64 frame; noise; keypoint hilang: right_elbow
+scr4_04,Seated_Cable_Row,4,aug2,Seated_Cable_Row/scr4_04_aug2.csv,64,64,rotasi -6°; skala x0.90
+scr4_05,Seated_Cable_Row,4,asli,Seated_Cable_Row/scr4_05_asli.csv,65,65,(data asli)
+scr4_05,Seated_Cable_Row,4,aug1,Seated_Cable_Row/scr4_05_aug1.csv,65,65,cermin; rotasi -8°; skala x0.92
+scr4_05,Seated_Cable_Row,4,aug2,Seated_Cable_Row/scr4_05_aug2.csv,65,65,rotasi +0°; skala x0.99; noise; keypoint hilang: right_wrist
+scr4_06,Seated_Cable_Row,4,asli,Seated_Cable_Row/scr4_06_asli.csv,64,64,(data asli)
+scr4_06,Seated_Cable_Row,4,aug1,Seated_Cable_Row/scr4_06_aug1.csv,64,67,kecepatan 64->67 frame; keypoint hilang: right_knee
+scr4_06,Seated_Cable_Row,4,aug2,Seated_Cable_Row/scr4_06_aug2.csv,64,64,rotasi +6°; skala x1.02; noise
+scr4_07,Seated_Cable_Row,4,asli,Seated_Cable_Row/scr4_07_asli.csv,60,60,(data asli)
+scr4_07,Seated_Cable_Row,4,aug1,Seated_Cable_Row/scr4_07_aug1.csv,60,49,skala x0.96; kecepatan 60->49 frame
+scr4_07,Seated_Cable_Row,4,aug2,Seated_Cable_Row/scr4_07_aug2.csv,60,60,cermin; skala x1.09
+scr4_08,Seated_Cable_Row,4,asli,Seated_Cable_Row/scr4_08_asli.csv,61,61,(data asli)
+scr4_08,Seated_Cable_Row,4,aug1,Seated_Cable_Row/scr4_08_aug1.csv,61,61,rotasi +0°; noise
+scr4_08,Seated_Cable_Row,4,aug2,Seated_Cable_Row/scr4_08_aug2.csv,61,61,skala x0.96
+scr5_01,Seated_Cable_Row,5,asli,Seated_Cable_Row/scr5_01_asli.csv,78,78,(data asli)
+scr5_01,Seated_Cable_Row,5,aug1,Seated_Cable_Row/scr5_01_aug1.csv,78,84,cermin; rotasi -1°; kecepatan 78->84 frame
+scr5_01,Seated_Cable_Row,5,aug2,Seated_Cable_Row/scr5_01_aug2.csv,78,73,rotasi +5°; kecepatan 78->73 frame
+scr5_02,Seated_Cable_Row,5,asli,Seated_Cable_Row/scr5_02_asli.csv,76,76,(data asli)
+scr5_02,Seated_Cable_Row,5,aug1,Seated_Cable_Row/scr5_02_aug1.csv,76,86,cermin; skala x1.03; kecepatan 76->86 frame
+scr5_02,Seated_Cable_Row,5,aug2,Seated_Cable_Row/scr5_02_aug2.csv,76,76,cermin; skala x1.05; noise
+scr5_03,Seated_Cable_Row,5,asli,Seated_Cable_Row/scr5_03_asli.csv,82,82,(data asli)
+scr5_03,Seated_Cable_Row,5,aug1,Seated_Cable_Row/scr5_03_aug1.csv,82,79,cermin; rotasi +0°; skala x0.94; kecepatan 82->79 frame
+scr5_03,Seated_Cable_Row,5,aug2,Seated_Cable_Row/scr5_03_aug2.csv,82,70,skala x0.95; kecepatan 82->70 frame; noise
+scr5_04,Seated_Cable_Row,5,asli,Seated_Cable_Row/scr5_04_asli.csv,86,86,(data asli)
+scr5_04,Seated_Cable_Row,5,aug1,Seated_Cable_Row/scr5_04_aug1.csv,86,87,"rotasi +8°; kecepatan 86->87 frame; noise; keypoint hilang: right_elbow, right_knee"
+scr5_04,Seated_Cable_Row,5,aug2,Seated_Cable_Row/scr5_04_aug2.csv,86,82,cermin; rotasi -6°; kecepatan 86->82 frame
+scr5_05,Seated_Cable_Row,5,asli,Seated_Cable_Row/scr5_05_asli.csv,98,98,(data asli)
+scr5_05,Seated_Cable_Row,5,aug1,Seated_Cable_Row/scr5_05_aug1.csv,98,91,kecepatan 98->91 frame
+scr5_05,Seated_Cable_Row,5,aug2,Seated_Cable_Row/scr5_05_aug2.csv,98,98,skala x0.91; noise
+scr5_06,Seated_Cable_Row,5,asli,Seated_Cable_Row/scr5_06_asli.csv,92,92,(data asli)
+scr5_06,Seated_Cable_Row,5,aug1,Seated_Cable_Row/scr5_06_aug1.csv,92,95,cermin; skala x1.01; kecepatan 92->95 frame; keypoint hilang: right_ankle
+scr5_06,Seated_Cable_Row,5,aug2,Seated_Cable_Row/scr5_06_aug2.csv,92,79,cermin; kecepatan 92->79 frame
+scr5_07,Seated_Cable_Row,5,asli,Seated_Cable_Row/scr5_07_asli.csv,90,90,(data asli)
+scr5_07,Seated_Cable_Row,5,aug1,Seated_Cable_Row/scr5_07_aug1.csv,90,90,cermin; rotasi +10°; skala x1.07
+scr5_07,Seated_Cable_Row,5,aug2,Seated_Cable_Row/scr5_07_aug2.csv,90,90,skala x0.90; noise
+scr5_08,Seated_Cable_Row,5,asli,Seated_Cable_Row/scr5_08_asli.csv,94,94,(data asli)
+scr5_08,Seated_Cable_Row,5,aug1,Seated_Cable_Row/scr5_08_aug1.csv,94,94,cermin; noise
+scr5_08,Seated_Cable_Row,5,aug2,Seated_Cable_Row/scr5_08_aug2.csv,94,101,skala x1.02; kecepatan 94->101 frame; noise
+scr6_01,Seated_Cable_Row,6,asli,Seated_Cable_Row/scr6_01_asli.csv,81,81,(data asli)
+scr6_01,Seated_Cable_Row,6,aug1,Seated_Cable_Row/scr6_01_aug1.csv,81,74,rotasi -8°; skala x0.92; kecepatan 81->74 frame; noise
+scr6_01,Seated_Cable_Row,6,aug2,Seated_Cable_Row/scr6_01_aug2.csv,81,81,"cermin; rotasi +5°; noise; keypoint hilang: left_knee, right_knee"
+scr6_02,Seated_Cable_Row,6,asli,Seated_Cable_Row/scr6_02_asli.csv,90,90,(data asli)
+scr6_02,Seated_Cable_Row,6,aug1,Seated_Cable_Row/scr6_02_aug1.csv,90,88,rotasi -8°; kecepatan 90->88 frame
+scr6_02,Seated_Cable_Row,6,aug2,Seated_Cable_Row/scr6_02_aug2.csv,90,105,cermin; kecepatan 90->105 frame
+scr6_03,Seated_Cable_Row,6,asli,Seated_Cable_Row/scr6_03_asli.csv,92,92,(data asli)
+scr6_03,Seated_Cable_Row,6,aug1,Seated_Cable_Row/scr6_03_aug1.csv,92,92,rotasi +6°; skala x0.99; noise
+scr6_03,Seated_Cable_Row,6,aug2,Seated_Cable_Row/scr6_03_aug2.csv,92,105,cermin; rotasi -5°; kecepatan 92->105 frame; noise
+scr6_04,Seated_Cable_Row,6,asli,Seated_Cable_Row/scr6_04_asli.csv,90,90,(data asli)
+scr6_04,Seated_Cable_Row,6,aug1,Seated_Cable_Row/scr6_04_aug1.csv,90,87,rotasi -2°; kecepatan 90->87 frame; keypoint hilang: right_wrist
+scr6_04,Seated_Cable_Row,6,aug2,Seated_Cable_Row/scr6_04_aug2.csv,90,90,rotasi -6°; keypoint hilang: left_ankle
+scr6_05,Seated_Cable_Row,6,asli,Seated_Cable_Row/scr6_05_asli.csv,91,91,(data asli)
+scr6_05,Seated_Cable_Row,6,aug1,Seated_Cable_Row/scr6_05_aug1.csv,91,91,"skala x0.98; keypoint hilang: right_ankle, left_knee"
+scr6_05,Seated_Cable_Row,6,aug2,Seated_Cable_Row/scr6_05_aug2.csv,91,91,cermin; rotasi -8°; skala x0.92; noise; keypoint hilang: right_elbow
+scr6_06,Seated_Cable_Row,6,asli,Seated_Cable_Row/scr6_06_asli.csv,90,90,(data asli)
+scr6_06,Seated_Cable_Row,6,aug1,Seated_Cable_Row/scr6_06_aug1.csv,90,90,rotasi +7°; skala x0.97; keypoint hilang: left_ankle
+scr6_06,Seated_Cable_Row,6,aug2,Seated_Cable_Row/scr6_06_aug2.csv,90,99,skala x1.07; kecepatan 90->99 frame
+scr6_07,Seated_Cable_Row,6,asli,Seated_Cable_Row/scr6_07_asli.csv,90,90,(data asli)
+scr6_07,Seated_Cable_Row,6,aug1,Seated_Cable_Row/scr6_07_aug1.csv,90,90,rotasi -8°; skala x0.91
+scr6_07,Seated_Cable_Row,6,aug2,Seated_Cable_Row/scr6_07_aug2.csv,90,102,cermin; rotasi +1°; kecepatan 90->102 frame
+scr6_08,Seated_Cable_Row,6,asli,Seated_Cable_Row/scr6_08_asli.csv,90,90,(data asli)
+scr6_08,Seated_Cable_Row,6,aug1,Seated_Cable_Row/scr6_08_aug1.csv,90,90,rotasi +5°
+scr6_08,Seated_Cable_Row,6,aug2,Seated_Cable_Row/scr6_08_aug2.csv,90,90,"cermin; keypoint hilang: left_knee, right_ankle"
+scr7_01,Seated_Cable_Row,7,asli,Seated_Cable_Row/scr7_01_asli.csv,86,86,(data asli)
+scr7_01,Seated_Cable_Row,7,aug1,Seated_Cable_Row/scr7_01_aug1.csv,86,97,rotasi +0°; kecepatan 86->97 frame; noise
+scr7_01,Seated_Cable_Row,7,aug2,Seated_Cable_Row/scr7_01_aug2.csv,86,86,cermin; rotasi +2°; noise
+scr7_02,Seated_Cable_Row,7,asli,Seated_Cable_Row/scr7_02_asli.csv,75,75,(data asli)
+scr7_02,Seated_Cable_Row,7,aug1,Seated_Cable_Row/scr7_02_aug1.csv,75,75,"rotasi +7°; noise; keypoint hilang: right_elbow, left_wrist"
+scr7_02,Seated_Cable_Row,7,aug2,Seated_Cable_Row/scr7_02_aug2.csv,75,70,cermin; rotasi +1°; kecepatan 75->70 frame
+scr7_03,Seated_Cable_Row,7,asli,Seated_Cable_Row/scr7_03_asli.csv,77,77,(data asli)
+scr7_03,Seated_Cable_Row,7,aug1,Seated_Cable_Row/scr7_03_aug1.csv,77,73,cermin; rotasi +5°; skala x1.00; kecepatan 77->73 frame; noise
+scr7_03,Seated_Cable_Row,7,aug2,Seated_Cable_Row/scr7_03_aug2.csv,77,77,cermin; rotasi -4°; noise
+scr7_04,Seated_Cable_Row,7,asli,Seated_Cable_Row/scr7_04_asli.csv,75,75,(data asli)
+scr7_04,Seated_Cable_Row,7,aug1,Seated_Cable_Row/scr7_04_aug1.csv,75,75,cermin; rotasi +2°; noise
+scr7_04,Seated_Cable_Row,7,aug2,Seated_Cable_Row/scr7_04_aug2.csv,75,75,rotasi +4°; noise; keypoint hilang: left_elbow
+scr7_05,Seated_Cable_Row,7,asli,Seated_Cable_Row/scr7_05_asli.csv,71,71,(data asli)
+scr7_05,Seated_Cable_Row,7,aug1,Seated_Cable_Row/scr7_05_aug1.csv,71,71,rotasi +4°; skala x0.97; kecepatan 71->71 frame
+scr7_05,Seated_Cable_Row,7,aug2,Seated_Cable_Row/scr7_05_aug2.csv,71,81,"kecepatan 71->81 frame; noise; keypoint hilang: right_knee, right_wrist"
+scr7_06,Seated_Cable_Row,7,asli,Seated_Cable_Row/scr7_06_asli.csv,73,73,(data asli)
+scr7_06,Seated_Cable_Row,7,aug1,Seated_Cable_Row/scr7_06_aug1.csv,73,73,cermin; rotasi +6°; skala x1.07; noise
+scr7_06,Seated_Cable_Row,7,aug2,Seated_Cable_Row/scr7_06_aug2.csv,73,73,rotasi +5°
+scr7_07,Seated_Cable_Row,7,asli,Seated_Cable_Row/scr7_07_asli.csv,71,71,(data asli)
+scr7_07,Seated_Cable_Row,7,aug1,Seated_Cable_Row/scr7_07_aug1.csv,71,71,cermin
+scr7_07,Seated_Cable_Row,7,aug2,Seated_Cable_Row/scr7_07_aug2.csv,71,77,skala x1.07; kecepatan 71->77 frame
+scr7_08,Seated_Cable_Row,7,asli,Seated_Cable_Row/scr7_08_asli.csv,69,69,(data asli)
+scr7_08,Seated_Cable_Row,7,aug1,Seated_Cable_Row/scr7_08_aug1.csv,69,74,cermin; rotasi -2°; skala x1.04; kecepatan 69->74 frame
+scr7_08,Seated_Cable_Row,7,aug2,Seated_Cable_Row/scr7_08_aug2.csv,69,69,(tidak ada)
+scr8_01,Seated_Cable_Row,8,asli,Seated_Cable_Row/scr8_01_asli.csv,73,73,(data asli)
+scr8_01,Seated_Cable_Row,8,aug1,Seated_Cable_Row/scr8_01_aug1.csv,73,88,cermin; rotasi +2°; skala x1.08; kecepatan 73->88 frame; noise
+scr8_01,Seated_Cable_Row,8,aug2,Seated_Cable_Row/scr8_01_aug2.csv,73,73,cermin; skala x1.08; keypoint hilang: left_knee
+scr8_02,Seated_Cable_Row,8,asli,Seated_Cable_Row/scr8_02_asli.csv,76,76,(data asli)
+scr8_02,Seated_Cable_Row,8,aug1,Seated_Cable_Row/scr8_02_aug1.csv,76,76,noise; keypoint hilang: right_ankle
+scr8_02,Seated_Cable_Row,8,aug2,Seated_Cable_Row/scr8_02_aug2.csv,76,76,cermin
+scr8_03,Seated_Cable_Row,8,asli,Seated_Cable_Row/scr8_03_asli.csv,70,70,(data asli)
+scr8_03,Seated_Cable_Row,8,aug1,Seated_Cable_Row/scr8_03_aug1.csv,70,70,cermin; rotasi +4°; skala x1.04
+scr8_03,Seated_Cable_Row,8,aug2,Seated_Cable_Row/scr8_03_aug2.csv,70,68,cermin; kecepatan 70->68 frame; noise
+scr8_04,Seated_Cable_Row,8,asli,Seated_Cable_Row/scr8_04_asli.csv,74,74,(data asli)
+scr8_04,Seated_Cable_Row,8,aug1,Seated_Cable_Row/scr8_04_aug1.csv,74,76,cermin; rotasi -0°; kecepatan 74->76 frame; noise
+scr8_04,Seated_Cable_Row,8,aug2,Seated_Cable_Row/scr8_04_aug2.csv,74,74,skala x1.05
+scr8_05,Seated_Cable_Row,8,asli,Seated_Cable_Row/scr8_05_asli.csv,74,74,(data asli)
+scr8_05,Seated_Cable_Row,8,aug1,Seated_Cable_Row/scr8_05_aug1.csv,74,64,cermin; rotasi -6°; skala x0.94; kecepatan 74->64 frame
+scr8_05,Seated_Cable_Row,8,aug2,Seated_Cable_Row/scr8_05_aug2.csv,74,71,cermin; rotasi -1°; kecepatan 74->71 frame; noise; keypoint hilang: left_knee
+scr8_06,Seated_Cable_Row,8,asli,Seated_Cable_Row/scr8_06_asli.csv,74,74,(data asli)
+scr8_06,Seated_Cable_Row,8,aug1,Seated_Cable_Row/scr8_06_aug1.csv,74,76,rotasi -2°; skala x0.97; kecepatan 74->76 frame; noise
+scr8_06,Seated_Cable_Row,8,aug2,Seated_Cable_Row/scr8_06_aug2.csv,74,74,rotasi -3°
+scr8_07,Seated_Cable_Row,8,asli,Seated_Cable_Row/scr8_07_asli.csv,74,74,(data asli)
+scr8_07,Seated_Cable_Row,8,aug1,Seated_Cable_Row/scr8_07_aug1.csv,74,74,skala x1.04; noise
+scr8_07,Seated_Cable_Row,8,aug2,Seated_Cable_Row/scr8_07_aug2.csv,74,89,rotasi -6°; kecepatan 74->89 frame; noise
+scr8_08,Seated_Cable_Row,8,asli,Seated_Cable_Row/scr8_08_asli.csv,70,70,(data asli)
+scr8_08,Seated_Cable_Row,8,aug1,Seated_Cable_Row/scr8_08_aug1.csv,70,58,skala x1.07; kecepatan 70->58 frame
+scr8_08,Seated_Cable_Row,8,aug2,Seated_Cable_Row/scr8_08_aug2.csv,70,70,rotasi +0°; noise; keypoint hilang: right_knee
+scr9_01,Seated_Cable_Row,9,asli,Seated_Cable_Row/scr9_01_asli.csv,71,71,(data asli)
+scr9_01,Seated_Cable_Row,9,aug1,Seated_Cable_Row/scr9_01_aug1.csv,71,71,"cermin; skala x0.92; noise; keypoint hilang: right_wrist, right_knee"
+scr9_01,Seated_Cable_Row,9,aug2,Seated_Cable_Row/scr9_01_aug2.csv,71,57,skala x1.04; kecepatan 71->57 frame; keypoint hilang: left_elbow
+scr9_02,Seated_Cable_Row,9,asli,Seated_Cable_Row/scr9_02_asli.csv,74,74,(data asli)
+scr9_02,Seated_Cable_Row,9,aug1,Seated_Cable_Row/scr9_02_aug1.csv,74,71,kecepatan 74->71 frame
+scr9_02,Seated_Cable_Row,9,aug2,Seated_Cable_Row/scr9_02_aug2.csv,74,74,"cermin; skala x0.95; keypoint hilang: left_elbow, right_wrist"
+scr9_03,Seated_Cable_Row,9,asli,Seated_Cable_Row/scr9_03_asli.csv,74,74,(data asli)
+scr9_03,Seated_Cable_Row,9,aug1,Seated_Cable_Row/scr9_03_aug1.csv,74,74,cermin; rotasi -6°; skala x0.90; noise
+scr9_03,Seated_Cable_Row,9,aug2,Seated_Cable_Row/scr9_03_aug2.csv,74,78,kecepatan 74->78 frame
+scr9_04,Seated_Cable_Row,9,asli,Seated_Cable_Row/scr9_04_asli.csv,74,74,(data asli)
+scr9_04,Seated_Cable_Row,9,aug1,Seated_Cable_Row/scr9_04_aug1.csv,74,75,cermin; rotasi -8°; kecepatan 74->75 frame; noise
+scr9_04,Seated_Cable_Row,9,aug2,Seated_Cable_Row/scr9_04_aug2.csv,74,74,cermin; skala x0.99
+scr9_05,Seated_Cable_Row,9,asli,Seated_Cable_Row/scr9_05_asli.csv,74,74,(data asli)
+scr9_05,Seated_Cable_Row,9,aug1,Seated_Cable_Row/scr9_05_aug1.csv,74,74,(tidak ada)
+scr9_05,Seated_Cable_Row,9,aug2,Seated_Cable_Row/scr9_05_aug2.csv,74,83,cermin; skala x1.04; kecepatan 74->83 frame; noise
+scr9_06,Seated_Cable_Row,9,asli,Seated_Cable_Row/scr9_06_asli.csv,76,76,(data asli)
+scr9_06,Seated_Cable_Row,9,aug1,Seated_Cable_Row/scr9_06_aug1.csv,76,76,cermin; noise; keypoint hilang: left_ankle
+scr9_06,Seated_Cable_Row,9,aug2,Seated_Cable_Row/scr9_06_aug2.csv,76,76,rotasi +9°; skala x0.95
+scr9_07,Seated_Cable_Row,9,asli,Seated_Cable_Row/scr9_07_asli.csv,76,76,(data asli)
+scr9_07,Seated_Cable_Row,9,aug1,Seated_Cable_Row/scr9_07_aug1.csv,76,66,"cermin; skala x0.91; kecepatan 76->66 frame; keypoint hilang: left_ankle, left_elbow"
+scr9_07,Seated_Cable_Row,9,aug2,Seated_Cable_Row/scr9_07_aug2.csv,76,76,cermin; noise
+scr9_08,Seated_Cable_Row,9,asli,Seated_Cable_Row/scr9_08_asli.csv,74,74,(data asli)
+scr9_08,Seated_Cable_Row,9,aug1,Seated_Cable_Row/scr9_08_aug1.csv,74,74,cermin; skala x1.07; noise; keypoint hilang: left_ankle
+scr9_08,Seated_Cable_Row,9,aug2,Seated_Cable_Row/scr9_08_aug2.csv,74,74,(tidak ada)
+scr10_01,Seated_Cable_Row,10,asli,Seated_Cable_Row/scr10_01_asli.csv,87,87,(data asli)
+scr10_01,Seated_Cable_Row,10,aug1,Seated_Cable_Row/scr10_01_aug1.csv,87,87,cermin; rotasi -10°; skala x0.97
+scr10_01,Seated_Cable_Row,10,aug2,Seated_Cable_Row/scr10_01_aug2.csv,87,87,noise; keypoint hilang: right_ankle
+scr10_02,Seated_Cable_Row,10,asli,Seated_Cable_Row/scr10_02_asli.csv,87,87,(data asli)
+scr10_02,Seated_Cable_Row,10,aug1,Seated_Cable_Row/scr10_02_aug1.csv,87,87,rotasi -9°; skala x1.10; noise; keypoint hilang: left_ankle
+scr10_02,Seated_Cable_Row,10,aug2,Seated_Cable_Row/scr10_02_aug2.csv,87,87,cermin; rotasi +2°; noise
+scr10_03,Seated_Cable_Row,10,asli,Seated_Cable_Row/scr10_03_asli.csv,79,79,(data asli)
+scr10_03,Seated_Cable_Row,10,aug1,Seated_Cable_Row/scr10_03_aug1.csv,79,79,cermin; skala x1.09
+scr10_03,Seated_Cable_Row,10,aug2,Seated_Cable_Row/scr10_03_aug2.csv,79,79,cermin; rotasi -7°; noise
+scr10_04,Seated_Cable_Row,10,asli,Seated_Cable_Row/scr10_04_asli.csv,79,79,(data asli)
+scr10_04,Seated_Cable_Row,10,aug1,Seated_Cable_Row/scr10_04_aug1.csv,79,77,rotasi -3°; kecepatan 79->77 frame
+scr10_04,Seated_Cable_Row,10,aug2,Seated_Cable_Row/scr10_04_aug2.csv,79,79,(tidak ada)
+scr10_05,Seated_Cable_Row,10,asli,Seated_Cable_Row/scr10_05_asli.csv,77,77,(data asli)
+scr10_05,Seated_Cable_Row,10,aug1,Seated_Cable_Row/scr10_05_aug1.csv,77,77,skala x1.06
+scr10_05,Seated_Cable_Row,10,aug2,Seated_Cable_Row/scr10_05_aug2.csv,77,82,kecepatan 77->82 frame
+scr10_06,Seated_Cable_Row,10,asli,Seated_Cable_Row/scr10_06_asli.csv,77,77,(data asli)
+scr10_06,Seated_Cable_Row,10,aug1,Seated_Cable_Row/scr10_06_aug1.csv,77,77,cermin; noise; keypoint hilang: right_wrist
+scr10_06,Seated_Cable_Row,10,aug2,Seated_Cable_Row/scr10_06_aug2.csv,77,77,cermin; rotasi -6°; skala x0.96; noise
+scr10_07,Seated_Cable_Row,10,asli,Seated_Cable_Row/scr10_07_asli.csv,73,73,(data asli)
+scr10_07,Seated_Cable_Row,10,aug1,Seated_Cable_Row/scr10_07_aug1.csv,73,73,cermin; skala x0.95; noise
+scr10_07,Seated_Cable_Row,10,aug2,Seated_Cable_Row/scr10_07_aug2.csv,73,73,(tidak ada)
+scr10_08,Seated_Cable_Row,10,asli,Seated_Cable_Row/scr10_08_asli.csv,73,73,(data asli)
+scr10_08,Seated_Cable_Row,10,aug1,Seated_Cable_Row/scr10_08_aug1.csv,73,71,cermin; rotasi +8°; skala x0.95; kecepatan 73->71 frame; noise
+scr10_08,Seated_Cable_Row,10,aug2,Seated_Cable_Row/scr10_08_aug2.csv,73,73,rotasi -8°
+bor1_01,Bent_over,1,asli,Bent_over/bor1_01_asli.csv,60,60,(data asli)
+bor1_01,Bent_over,1,aug1,Bent_over/bor1_01_aug1.csv,60,60,cermin; skala x0.94; noise
+bor1_01,Bent_over,1,aug2,Bent_over/bor1_01_aug2.csv,60,60,"keypoint hilang: right_wrist, right_elbow"
+bor1_02,Bent_over,1,asli,Bent_over/bor1_02_asli.csv,61,61,(data asli)
+bor1_02,Bent_over,1,aug1,Bent_over/bor1_02_aug1.csv,61,50,rotasi +4°; skala x0.97; kecepatan 61->50 frame; noise
+bor1_02,Bent_over,1,aug2,Bent_over/bor1_02_aug2.csv,61,49,rotasi -10°; skala x0.98; kecepatan 61->49 frame
+bor1_03,Bent_over,1,asli,Bent_over/bor1_03_asli.csv,61,61,(data asli)
+bor1_03,Bent_over,1,aug1,Bent_over/bor1_03_aug1.csv,61,55,rotasi +4°; kecepatan 61->55 frame; noise
+bor1_03,Bent_over,1,aug2,Bent_over/bor1_03_aug2.csv,61,61,cermin; noise
+bor1_04,Bent_over,1,asli,Bent_over/bor1_04_asli.csv,61,61,(data asli)
+bor1_04,Bent_over,1,aug1,Bent_over/bor1_04_aug1.csv,61,58,cermin; skala x1.06; kecepatan 61->58 frame
+bor1_04,Bent_over,1,aug2,Bent_over/bor1_04_aug2.csv,61,61,keypoint hilang: left_knee
+bor1_05,Bent_over,1,asli,Bent_over/bor1_05_asli.csv,60,60,(data asli)
+bor1_05,Bent_over,1,aug1,Bent_over/bor1_05_aug1.csv,60,69,rotasi +6°; kecepatan 60->69 frame
+bor1_05,Bent_over,1,aug2,Bent_over/bor1_05_aug2.csv,60,60,(tidak ada)
+bor1_06,Bent_over,1,asli,Bent_over/bor1_06_asli.csv,60,60,(data asli)
+bor1_06,Bent_over,1,aug1,Bent_over/bor1_06_aug1.csv,60,67,cermin; rotasi -4°; skala x1.05; kecepatan 60->67 frame; keypoint hilang: left_knee
+bor1_06,Bent_over,1,aug2,Bent_over/bor1_06_aug2.csv,60,60,noise
+bor1_07,Bent_over,1,asli,Bent_over/bor1_07_asli.csv,62,62,(data asli)
+bor1_07,Bent_over,1,aug1,Bent_over/bor1_07_aug1.csv,62,70,cermin; rotasi +1°; kecepatan 62->70 frame
+bor1_07,Bent_over,1,aug2,Bent_over/bor1_07_aug2.csv,62,51,skala x1.09; kecepatan 62->51 frame
+bor1_08,Bent_over,1,asli,Bent_over/bor1_08_asli.csv,66,66,(data asli)
+bor1_08,Bent_over,1,aug1,Bent_over/bor1_08_aug1.csv,66,78,"skala x0.92; kecepatan 66->78 frame; keypoint hilang: right_ankle, right_elbow"
+bor1_08,Bent_over,1,aug2,Bent_over/bor1_08_aug2.csv,66,66,(tidak ada)
+bor2_01,Bent_over,2,asli,Bent_over/bor2_01_asli.csv,75,75,(data asli)
+bor2_01,Bent_over,2,aug1,Bent_over/bor2_01_aug1.csv,75,66,skala x1.05; kecepatan 75->66 frame; keypoint hilang: right_knee
+bor2_01,Bent_over,2,aug2,Bent_over/bor2_01_aug2.csv,75,75,cermin; rotasi +5°; skala x0.98; keypoint hilang: left_knee
+bor2_02,Bent_over,2,asli,Bent_over/bor2_02_asli.csv,69,69,(data asli)
+bor2_02,Bent_over,2,aug1,Bent_over/bor2_02_aug1.csv,69,61,cermin; rotasi +6°; skala x1.01; kecepatan 69->61 frame; noise
+bor2_02,Bent_over,2,aug2,Bent_over/bor2_02_aug2.csv,69,69,cermin; rotasi +6°; skala x0.98
+bor2_03,Bent_over,2,asli,Bent_over/bor2_03_asli.csv,69,69,(data asli)
+bor2_03,Bent_over,2,aug1,Bent_over/bor2_03_aug1.csv,69,69,rotasi +1°; noise
+bor2_03,Bent_over,2,aug2,Bent_over/bor2_03_aug2.csv,69,58,"cermin; skala x0.96; kecepatan 69->58 frame; noise; keypoint hilang: left_elbow, left_wrist"
+bor2_04,Bent_over,2,asli,Bent_over/bor2_04_asli.csv,74,74,(data asli)
+bor2_04,Bent_over,2,aug1,Bent_over/bor2_04_aug1.csv,74,74,"cermin; rotasi +1°; noise; keypoint hilang: right_knee, left_wrist"
+bor2_04,Bent_over,2,aug2,Bent_over/bor2_04_aug2.csv,74,74,rotasi -4°; noise
+bor2_05,Bent_over,2,asli,Bent_over/bor2_05_asli.csv,64,64,(data asli)
+bor2_05,Bent_over,2,aug1,Bent_over/bor2_05_aug1.csv,64,52,cermin; rotasi -5°; kecepatan 64->52 frame; noise; keypoint hilang: right_ankle
+bor2_05,Bent_over,2,aug2,Bent_over/bor2_05_aug2.csv,64,53,cermin; rotasi +8°; skala x1.03; kecepatan 64->53 frame; keypoint hilang: right_ankle
+bor2_06,Bent_over,2,asli,Bent_over/bor2_06_asli.csv,67,67,(data asli)
+bor2_06,Bent_over,2,aug1,Bent_over/bor2_06_aug1.csv,67,70,rotasi -4°; kecepatan 67->70 frame
+bor2_06,Bent_over,2,aug2,Bent_over/bor2_06_aug2.csv,67,67,rotasi -5°; keypoint hilang: right_wrist
+bor2_07,Bent_over,2,asli,Bent_over/bor2_07_asli.csv,60,60,(data asli)
+bor2_07,Bent_over,2,aug1,Bent_over/bor2_07_aug1.csv,60,50,kecepatan 60->50 frame; noise
+bor2_07,Bent_over,2,aug2,Bent_over/bor2_07_aug2.csv,60,60,"skala x1.06; noise; keypoint hilang: left_elbow, left_ankle"
+bor2_08,Bent_over,2,asli,Bent_over/bor2_08_asli.csv,71,71,(data asli)
+bor2_08,Bent_over,2,aug1,Bent_over/bor2_08_aug1.csv,71,71,skala x1.09; kecepatan 71->71 frame
+bor2_08,Bent_over,2,aug2,Bent_over/bor2_08_aug2.csv,71,57,"cermin; rotasi -2°; skala x1.08; kecepatan 71->57 frame; noise; keypoint hilang: right_ankle, left_ankle"
+bor3_01,Bent_over,3,asli,Bent_over/bor3_01_asli.csv,73,73,(data asli)
+bor3_01,Bent_over,3,aug1,Bent_over/bor3_01_aug1.csv,73,73,cermin
+bor3_01,Bent_over,3,aug2,Bent_over/bor3_01_aug2.csv,73,61,"skala x1.04; kecepatan 73->61 frame; keypoint hilang: left_elbow, left_ankle"
+bor3_02,Bent_over,3,asli,Bent_over/bor3_02_asli.csv,73,73,(data asli)
+bor3_02,Bent_over,3,aug1,Bent_over/bor3_02_aug1.csv,73,73,skala x0.96
+bor3_02,Bent_over,3,aug2,Bent_over/bor3_02_aug2.csv,73,73,cermin; skala x0.92; noise
+bor3_03,Bent_over,3,asli,Bent_over/bor3_03_asli.csv,73,73,(data asli)
+bor3_03,Bent_over,3,aug1,Bent_over/bor3_03_aug1.csv,73,69,cermin; kecepatan 73->69 frame
+bor3_03,Bent_over,3,aug2,Bent_over/bor3_03_aug2.csv,73,73,rotasi +8°; noise
+bor3_04,Bent_over,3,asli,Bent_over/bor3_04_asli.csv,83,83,(data asli)
+bor3_04,Bent_over,3,aug1,Bent_over/bor3_04_aug1.csv,83,83,rotasi -1°; skala x0.90
+bor3_04,Bent_over,3,aug2,Bent_over/bor3_04_aug2.csv,83,73,cermin; rotasi +7°; kecepatan 83->73 frame
+bor3_05,Bent_over,3,asli,Bent_over/bor3_05_asli.csv,88,88,(data asli)
+bor3_05,Bent_over,3,aug1,Bent_over/bor3_05_aug1.csv,88,88,rotasi -8°
+bor3_05,Bent_over,3,aug2,Bent_over/bor3_05_aug2.csv,88,93,kecepatan 88->93 frame
+bor3_06,Bent_over,3,asli,Bent_over/bor3_06_asli.csv,83,83,(data asli)
+bor3_06,Bent_over,3,aug1,Bent_over/bor3_06_aug1.csv,83,83,rotasi -1°; noise
+bor3_06,Bent_over,3,aug2,Bent_over/bor3_06_aug2.csv,83,83,"cermin; rotasi +4°; keypoint hilang: left_wrist, right_wrist"
+bor3_07,Bent_over,3,asli,Bent_over/bor3_07_asli.csv,78,78,(data asli)
+bor3_07,Bent_over,3,aug1,Bent_over/bor3_07_aug1.csv,78,71,cermin; rotasi -6°; kecepatan 78->71 frame; noise
+bor3_07,Bent_over,3,aug2,Bent_over/bor3_07_aug2.csv,78,85,cermin; kecepatan 78->85 frame; noise
+bor3_08,Bent_over,3,asli,Bent_over/bor3_08_asli.csv,78,78,(data asli)
+bor3_08,Bent_over,3,aug1,Bent_over/bor3_08_aug1.csv,78,65,cermin; kecepatan 78->65 frame
+bor3_08,Bent_over,3,aug2,Bent_over/bor3_08_aug2.csv,78,68,rotasi -9°; skala x0.91; kecepatan 78->68 frame
+bor4_01,Bent_over,4,asli,Bent_over/bor4_01_asli.csv,79,79,(data asli)
+bor4_01,Bent_over,4,aug1,Bent_over/bor4_01_aug1.csv,79,85,cermin; kecepatan 79->85 frame; noise; keypoint hilang: left_wrist
+bor4_01,Bent_over,4,aug2,Bent_over/bor4_01_aug2.csv,79,79,"cermin; rotasi +1°; skala x1.06; noise; keypoint hilang: right_ankle, left_wrist"
+bor4_02,Bent_over,4,asli,Bent_over/bor4_02_asli.csv,79,79,(data asli)
+bor4_02,Bent_over,4,aug1,Bent_over/bor4_02_aug1.csv,79,79,kecepatan 79->79 frame; noise
+bor4_02,Bent_over,4,aug2,Bent_over/bor4_02_aug2.csv,79,91,"cermin; rotasi -2°; kecepatan 79->91 frame; keypoint hilang: left_elbow, right_elbow"
+bor4_03,Bent_over,4,asli,Bent_over/bor4_03_asli.csv,75,75,(data asli)
+bor4_03,Bent_over,4,aug1,Bent_over/bor4_03_aug1.csv,75,75,cermin
+bor4_03,Bent_over,4,aug2,Bent_over/bor4_03_aug2.csv,75,75,cermin; skala x1.03; noise
+bor4_04,Bent_over,4,asli,Bent_over/bor4_04_asli.csv,81,81,(data asli)
+bor4_04,Bent_over,4,aug1,Bent_over/bor4_04_aug1.csv,81,85,rotasi -6°; kecepatan 81->85 frame; noise
+bor4_04,Bent_over,4,aug2,Bent_over/bor4_04_aug2.csv,81,85,cermin; rotasi +6°; kecepatan 81->85 frame
+bor4_05,Bent_over,4,asli,Bent_over/bor4_05_asli.csv,81,81,(data asli)
+bor4_05,Bent_over,4,aug1,Bent_over/bor4_05_aug1.csv,81,81,cermin; skala x1.02; noise; keypoint hilang: right_knee
+bor4_05,Bent_over,4,aug2,Bent_over/bor4_05_aug2.csv,81,80,cermin; rotasi -4°; kecepatan 81->80 frame
+bor4_06,Bent_over,4,asli,Bent_over/bor4_06_asli.csv,79,79,(data asli)
+bor4_06,Bent_over,4,aug1,Bent_over/bor4_06_aug1.csv,79,79,noise
+bor4_06,Bent_over,4,aug2,Bent_over/bor4_06_aug2.csv,79,79,cermin; skala x1.00; keypoint hilang: left_knee
+bor4_07,Bent_over,4,asli,Bent_over/bor4_07_asli.csv,82,82,(data asli)
+bor4_07,Bent_over,4,aug1,Bent_over/bor4_07_aug1.csv,82,88,"cermin; skala x1.01; kecepatan 82->88 frame; noise; keypoint hilang: right_wrist, left_wrist"
+bor4_07,Bent_over,4,aug2,Bent_over/bor4_07_aug2.csv,82,82,skala x0.96
+bor4_08,Bent_over,4,asli,Bent_over/bor4_08_asli.csv,81,81,(data asli)
+bor4_08,Bent_over,4,aug1,Bent_over/bor4_08_aug1.csv,81,92,skala x0.94; kecepatan 81->92 frame
+bor4_08,Bent_over,4,aug2,Bent_over/bor4_08_aug2.csv,81,81,rotasi +8°
+bor5_01,Bent_over,5,asli,Bent_over/bor5_01_asli.csv,74,74,(data asli)
+bor5_01,Bent_over,5,aug1,Bent_over/bor5_01_aug1.csv,74,74,rotasi +4°; skala x0.90
+bor5_01,Bent_over,5,aug2,Bent_over/bor5_01_aug2.csv,74,82,kecepatan 74->82 frame
+bor5_02,Bent_over,5,asli,Bent_over/bor5_02_asli.csv,77,77,(data asli)
+bor5_02,Bent_over,5,aug1,Bent_over/bor5_02_aug1.csv,77,72,cermin; rotasi +8°; skala x0.97; kecepatan 77->72 frame; noise
+bor5_02,Bent_over,5,aug2,Bent_over/bor5_02_aug2.csv,77,62,cermin; rotasi -4°; kecepatan 77->62 frame
+bor5_03,Bent_over,5,asli,Bent_over/bor5_03_asli.csv,75,75,(data asli)
+bor5_03,Bent_over,5,aug1,Bent_over/bor5_03_aug1.csv,75,76,"skala x0.99; kecepatan 75->76 frame; noise; keypoint hilang: left_elbow, right_ankle"
+bor5_03,Bent_over,5,aug2,Bent_over/bor5_03_aug2.csv,75,68,rotasi +7°; kecepatan 75->68 frame
+bor5_04,Bent_over,5,asli,Bent_over/bor5_04_asli.csv,76,76,(data asli)
+bor5_04,Bent_over,5,aug1,Bent_over/bor5_04_aug1.csv,76,76,"rotasi -7°; skala x0.91; noise; keypoint hilang: left_wrist, left_ankle"
+bor5_04,Bent_over,5,aug2,Bent_over/bor5_04_aug2.csv,76,67,rotasi +4°; kecepatan 76->67 frame; keypoint hilang: right_elbow
+bor5_05,Bent_over,5,asli,Bent_over/bor5_05_asli.csv,66,66,(data asli)
+bor5_05,Bent_over,5,aug1,Bent_over/bor5_05_aug1.csv,66,66,cermin; kecepatan 66->66 frame
+bor5_05,Bent_over,5,aug2,Bent_over/bor5_05_aug2.csv,66,66,cermin; rotasi -6°; noise
+bor5_06,Bent_over,5,asli,Bent_over/bor5_06_asli.csv,74,74,(data asli)
+bor5_06,Bent_over,5,aug1,Bent_over/bor5_06_aug1.csv,74,74,cermin; rotasi -6°; skala x0.96
+bor5_06,Bent_over,5,aug2,Bent_over/bor5_06_aug2.csv,74,74,rotasi +6°; noise
+bor5_07,Bent_over,5,asli,Bent_over/bor5_07_asli.csv,73,73,(data asli)
+bor5_07,Bent_over,5,aug1,Bent_over/bor5_07_aug1.csv,73,63,kecepatan 73->63 frame; keypoint hilang: left_wrist
+bor5_07,Bent_over,5,aug2,Bent_over/bor5_07_aug2.csv,73,87,"cermin; rotasi +4°; skala x0.92; kecepatan 73->87 frame; noise; keypoint hilang: right_knee, left_elbow"
+bor5_08,Bent_over,5,asli,Bent_over/bor5_08_asli.csv,73,73,(data asli)
+bor5_08,Bent_over,5,aug1,Bent_over/bor5_08_aug1.csv,73,73,(tidak ada)
+bor5_08,Bent_over,5,aug2,Bent_over/bor5_08_aug2.csv,73,86,cermin; rotasi +4°; skala x1.03; kecepatan 73->86 frame; noise; keypoint hilang: left_ankle
+bor6_01,Bent_over,6,asli,Bent_over/bor6_01_asli.csv,62,62,(data asli)
+bor6_01,Bent_over,6,aug1,Bent_over/bor6_01_aug1.csv,62,62,(tidak ada)
+bor6_01,Bent_over,6,aug2,Bent_over/bor6_01_aug2.csv,62,60,cermin; rotasi -7°; kecepatan 62->60 frame; keypoint hilang: right_ankle
+bor6_02,Bent_over,6,asli,Bent_over/bor6_02_asli.csv,62,62,(data asli)
+bor6_02,Bent_over,6,aug1,Bent_over/bor6_02_aug1.csv,62,62,"cermin; rotasi -5°; noise; keypoint hilang: left_elbow, right_ankle"
+bor6_02,Bent_over,6,aug2,Bent_over/bor6_02_aug2.csv,62,62,rotasi -6°
+bor6_03,Bent_over,6,asli,Bent_over/bor6_03_asli.csv,63,63,(data asli)
+bor6_03,Bent_over,6,aug1,Bent_over/bor6_03_aug1.csv,63,63,rotasi +1°; noise
+bor6_03,Bent_over,6,aug2,Bent_over/bor6_03_aug2.csv,63,75,kecepatan 63->75 frame; noise; keypoint hilang: left_wrist
+bor6_04,Bent_over,6,asli,Bent_over/bor6_04_asli.csv,62,62,(data asli)
+bor6_04,Bent_over,6,aug1,Bent_over/bor6_04_aug1.csv,62,62,"cermin; keypoint hilang: right_elbow, left_knee"
+bor6_04,Bent_over,6,aug2,Bent_over/bor6_04_aug2.csv,62,62,rotasi -1°; skala x0.90; noise
+bor6_05,Bent_over,6,asli,Bent_over/bor6_05_asli.csv,62,62,(data asli)
+bor6_05,Bent_over,6,aug1,Bent_over/bor6_05_aug1.csv,62,62,rotasi +1°; noise
+bor6_05,Bent_over,6,aug2,Bent_over/bor6_05_aug2.csv,62,62,noise; keypoint hilang: left_wrist
+bor6_06,Bent_over,6,asli,Bent_over/bor6_06_asli.csv,62,62,(data asli)
+bor6_06,Bent_over,6,aug1,Bent_over/bor6_06_aug1.csv,62,62,cermin; skala x0.98; noise
+bor6_06,Bent_over,6,aug2,Bent_over/bor6_06_aug2.csv,62,62,"cermin; rotasi -9°; keypoint hilang: right_wrist, left_ankle"
+bor6_07,Bent_over,6,asli,Bent_over/bor6_07_asli.csv,65,65,(data asli)
+bor6_07,Bent_over,6,aug1,Bent_over/bor6_07_aug1.csv,65,64,cermin; rotasi +2°; skala x0.91; kecepatan 65->64 frame
+bor6_07,Bent_over,6,aug2,Bent_over/bor6_07_aug2.csv,65,65,rotasi -8°; noise
+bor6_08,Bent_over,6,asli,Bent_over/bor6_08_asli.csv,65,65,(data asli)
+bor6_08,Bent_over,6,aug1,Bent_over/bor6_08_aug1.csv,65,65,cermin; skala x1.07; noise
+bor6_08,Bent_over,6,aug2,Bent_over/bor6_08_aug2.csv,65,63,cermin; skala x1.02; kecepatan 65->63 frame; noise
+bor7_01,Bent_over,7,asli,Bent_over/bor7_01_asli.csv,64,64,(data asli)
+bor7_01,Bent_over,7,aug1,Bent_over/bor7_01_aug1.csv,64,64,cermin
+bor7_01,Bent_over,7,aug2,Bent_over/bor7_01_aug2.csv,64,64,skala x0.99
+bor7_02,Bent_over,7,asli,Bent_over/bor7_02_asli.csv,70,70,(data asli)
+bor7_02,Bent_over,7,aug1,Bent_over/bor7_02_aug1.csv,70,76,"skala x1.04; kecepatan 70->76 frame; keypoint hilang: right_elbow, right_ankle"
+bor7_02,Bent_over,7,aug2,Bent_over/bor7_02_aug2.csv,70,67,"cermin; kecepatan 70->67 frame; noise; keypoint hilang: right_elbow, left_ankle"
+bor7_03,Bent_over,7,asli,Bent_over/bor7_03_asli.csv,72,72,(data asli)
+bor7_03,Bent_over,7,aug1,Bent_over/bor7_03_aug1.csv,72,63,rotasi +1°; skala x0.99; kecepatan 72->63 frame; keypoint hilang: right_wrist
+bor7_03,Bent_over,7,aug2,Bent_over/bor7_03_aug2.csv,72,72,cermin; noise
+bor7_04,Bent_over,7,asli,Bent_over/bor7_04_asli.csv,71,71,(data asli)
+bor7_04,Bent_over,7,aug1,Bent_over/bor7_04_aug1.csv,71,63,cermin; rotasi +5°; kecepatan 71->63 frame; noise
+bor7_04,Bent_over,7,aug2,Bent_over/bor7_04_aug2.csv,71,58,cermin; skala x0.93; kecepatan 71->58 frame
+bor7_05,Bent_over,7,asli,Bent_over/bor7_05_asli.csv,72,72,(data asli)
+bor7_05,Bent_over,7,aug1,Bent_over/bor7_05_aug1.csv,72,72,cermin; kecepatan 72->72 frame
+bor7_05,Bent_over,7,aug2,Bent_over/bor7_05_aug2.csv,72,61,cermin; rotasi +5°; kecepatan 72->61 frame; noise
+bor7_06,Bent_over,7,asli,Bent_over/bor7_06_asli.csv,78,78,(data asli)
+bor7_06,Bent_over,7,aug1,Bent_over/bor7_06_aug1.csv,78,65,"rotasi +0°; kecepatan 78->65 frame; keypoint hilang: left_ankle, right_wrist"
+bor7_06,Bent_over,7,aug2,Bent_over/bor7_06_aug2.csv,78,78,rotasi +3°; skala x1.06
+bor7_07,Bent_over,7,asli,Bent_over/bor7_07_asli.csv,75,75,(data asli)
+bor7_07,Bent_over,7,aug1,Bent_over/bor7_07_aug1.csv,75,83,cermin; rotasi -6°; skala x1.08; kecepatan 75->83 frame
+bor7_07,Bent_over,7,aug2,Bent_over/bor7_07_aug2.csv,75,75,skala x1.04; noise
+bor7_08,Bent_over,7,asli,Bent_over/bor7_08_asli.csv,78,78,(data asli)
+bor7_08,Bent_over,7,aug1,Bent_over/bor7_08_aug1.csv,78,77,"kecepatan 78->77 frame; noise; keypoint hilang: left_wrist, right_elbow"
+bor7_08,Bent_over,7,aug2,Bent_over/bor7_08_aug2.csv,78,78,cermin; skala x0.93; noise
+bor8_01,Bent_over,8,asli,Bent_over/bor8_01_asli.csv,69,69,(data asli)
+bor8_01,Bent_over,8,aug1,Bent_over/bor8_01_aug1.csv,69,69,rotasi +8°; skala x1.03
+bor8_01,Bent_over,8,aug2,Bent_over/bor8_01_aug2.csv,69,59,cermin; rotasi -2°; skala x0.95; kecepatan 69->59 frame; noise
+bor8_02,Bent_over,8,asli,Bent_over/bor8_02_asli.csv,64,64,(data asli)
+bor8_02,Bent_over,8,aug1,Bent_over/bor8_02_aug1.csv,64,76,kecepatan 64->76 frame
+bor8_02,Bent_over,8,aug2,Bent_over/bor8_02_aug2.csv,64,64,rotasi +9°; skala x1.03
+bor8_03,Bent_over,8,asli,Bent_over/bor8_03_asli.csv,69,69,(data asli)
+bor8_03,Bent_over,8,aug1,Bent_over/bor8_03_aug1.csv,69,75,cermin; rotasi +7°; skala x0.97; kecepatan 69->75 frame; noise; keypoint hilang: left_elbow
+bor8_03,Bent_over,8,aug2,Bent_over/bor8_03_aug2.csv,69,69,cermin; skala x0.92; noise
+bor8_04,Bent_over,8,asli,Bent_over/bor8_04_asli.csv,63,63,(data asli)
+bor8_04,Bent_over,8,aug1,Bent_over/bor8_04_aug1.csv,63,60,cermin; kecepatan 63->60 frame
+bor8_04,Bent_over,8,aug2,Bent_over/bor8_04_aug2.csv,63,63,"rotasi -5°; keypoint hilang: right_knee, left_knee"
+bor8_05,Bent_over,8,asli,Bent_over/bor8_05_asli.csv,66,66,(data asli)
+bor8_05,Bent_over,8,aug1,Bent_over/bor8_05_aug1.csv,66,66,noise
+bor8_05,Bent_over,8,aug2,Bent_over/bor8_05_aug2.csv,66,66,"cermin; rotasi +7°; keypoint hilang: right_ankle, right_wrist"
+bor8_06,Bent_over,8,asli,Bent_over/bor8_06_asli.csv,70,70,(data asli)
+bor8_06,Bent_over,8,aug1,Bent_over/bor8_06_aug1.csv,70,70,(tidak ada)
+bor8_06,Bent_over,8,aug2,Bent_over/bor8_06_aug2.csv,70,70,(tidak ada)
+bor8_07,Bent_over,8,asli,Bent_over/bor8_07_asli.csv,68,68,(data asli)
+bor8_07,Bent_over,8,aug1,Bent_over/bor8_07_aug1.csv,68,60,cermin; rotasi -3°; skala x1.06; kecepatan 68->60 frame; noise
+bor8_07,Bent_over,8,aug2,Bent_over/bor8_07_aug2.csv,68,68,rotasi +2°; skala x1.09; noise
+bor8_08,Bent_over,8,asli,Bent_over/bor8_08_asli.csv,69,69,(data asli)
+bor8_08,Bent_over,8,aug1,Bent_over/bor8_08_aug1.csv,69,69,(tidak ada)
+bor8_08,Bent_over,8,aug2,Bent_over/bor8_08_aug2.csv,69,78,kecepatan 69->78 frame
+bor9_01,Bent_over,9,asli,Bent_over/bor9_01_asli.csv,86,86,(data asli)
+bor9_01,Bent_over,9,aug1,Bent_over/bor9_01_aug1.csv,86,86,cermin; rotasi -0°
+bor9_01,Bent_over,9,aug2,Bent_over/bor9_01_aug2.csv,86,97,"cermin; rotasi +4°; skala x1.03; kecepatan 86->97 frame; noise; keypoint hilang: right_knee, right_wrist"
+bor9_02,Bent_over,9,asli,Bent_over/bor9_02_asli.csv,82,82,(data asli)
+bor9_02,Bent_over,9,aug1,Bent_over/bor9_02_aug1.csv,82,71,cermin; rotasi -6°; kecepatan 82->71 frame; noise
+bor9_02,Bent_over,9,aug2,Bent_over/bor9_02_aug2.csv,82,82,cermin
+bor9_03,Bent_over,9,asli,Bent_over/bor9_03_asli.csv,81,81,(data asli)
+bor9_03,Bent_over,9,aug1,Bent_over/bor9_03_aug1.csv,81,80,skala x0.98; kecepatan 81->80 frame
+bor9_03,Bent_over,9,aug2,Bent_over/bor9_03_aug2.csv,81,72,"cermin; skala x0.94; kecepatan 81->72 frame; noise; keypoint hilang: right_knee, right_ankle"
+bor9_04,Bent_over,9,asli,Bent_over/bor9_04_asli.csv,74,74,(data asli)
+bor9_04,Bent_over,9,aug1,Bent_over/bor9_04_aug1.csv,74,80,cermin; skala x0.96; kecepatan 74->80 frame; noise
+bor9_04,Bent_over,9,aug2,Bent_over/bor9_04_aug2.csv,74,74,rotasi -1°; noise
+bor9_05,Bent_over,9,asli,Bent_over/bor9_05_asli.csv,83,83,(data asli)
+bor9_05,Bent_over,9,aug1,Bent_over/bor9_05_aug1.csv,83,83,noise; keypoint hilang: right_elbow
+bor9_05,Bent_over,9,aug2,Bent_over/bor9_05_aug2.csv,83,83,rotasi +4°; noise
+bor9_06,Bent_over,9,asli,Bent_over/bor9_06_asli.csv,80,80,(data asli)
+bor9_06,Bent_over,9,aug1,Bent_over/bor9_06_aug1.csv,80,80,cermin; keypoint hilang: left_ankle
+bor9_06,Bent_over,9,aug2,Bent_over/bor9_06_aug2.csv,80,80,cermin; skala x0.97; keypoint hilang: left_wrist
+bor9_07,Bent_over,9,asli,Bent_over/bor9_07_asli.csv,81,81,(data asli)
+bor9_07,Bent_over,9,aug1,Bent_over/bor9_07_aug1.csv,81,81,(tidak ada)
+bor9_07,Bent_over,9,aug2,Bent_over/bor9_07_aug2.csv,81,67,skala x1.04; kecepatan 81->67 frame
+bor9_08,Bent_over,9,asli,Bent_over/bor9_08_asli.csv,75,75,(data asli)
+bor9_08,Bent_over,9,aug1,Bent_over/bor9_08_aug1.csv,75,76,cermin; rotasi +0°; kecepatan 75->76 frame
+bor9_08,Bent_over,9,aug2,Bent_over/bor9_08_aug2.csv,75,75,noise
+bor10_01,Bent_over,10,asli,Bent_over/bor10_01_asli.csv,67,67,(data asli)
+bor10_01,Bent_over,10,aug1,Bent_over/bor10_01_aug1.csv,67,67,skala x1.07
+bor10_01,Bent_over,10,aug2,Bent_over/bor10_01_aug2.csv,67,67,cermin; keypoint hilang: left_knee
+bor10_02,Bent_over,10,asli,Bent_over/bor10_02_asli.csv,72,72,(data asli)
+bor10_02,Bent_over,10,aug1,Bent_over/bor10_02_aug1.csv,72,73,cermin; rotasi -0°; kecepatan 72->73 frame; noise
+bor10_02,Bent_over,10,aug2,Bent_over/bor10_02_aug2.csv,72,73,kecepatan 72->73 frame
+bor10_03,Bent_over,10,asli,Bent_over/bor10_03_asli.csv,71,71,(data asli)
+bor10_03,Bent_over,10,aug1,Bent_over/bor10_03_aug1.csv,71,71,cermin; rotasi +8°; skala x1.02; noise
+bor10_03,Bent_over,10,aug2,Bent_over/bor10_03_aug2.csv,71,71,cermin; rotasi +7°; skala x1.08; noise
+bor10_04,Bent_over,10,asli,Bent_over/bor10_04_asli.csv,71,71,(data asli)
+bor10_04,Bent_over,10,aug1,Bent_over/bor10_04_aug1.csv,71,66,skala x1.09; kecepatan 71->66 frame; noise; keypoint hilang: right_knee
+bor10_04,Bent_over,10,aug2,Bent_over/bor10_04_aug2.csv,71,68,cermin; rotasi -9°; kecepatan 71->68 frame
+bor10_05,Bent_over,10,asli,Bent_over/bor10_05_asli.csv,73,73,(data asli)
+bor10_05,Bent_over,10,aug1,Bent_over/bor10_05_aug1.csv,73,65,cermin; skala x0.95; kecepatan 73->65 frame; noise
+bor10_05,Bent_over,10,aug2,Bent_over/bor10_05_aug2.csv,73,64,rotasi +6°; skala x0.95; kecepatan 73->64 frame; noise
+bor10_06,Bent_over,10,asli,Bent_over/bor10_06_asli.csv,77,77,(data asli)
+bor10_06,Bent_over,10,aug1,Bent_over/bor10_06_aug1.csv,77,77,skala x0.94
+bor10_06,Bent_over,10,aug2,Bent_over/bor10_06_aug2.csv,77,77,cermin; rotasi +9°; noise
+bor10_07,Bent_over,10,asli,Bent_over/bor10_07_asli.csv,75,75,(data asli)
+bor10_07,Bent_over,10,aug1,Bent_over/bor10_07_aug1.csv,75,76,cermin; kecepatan 75->76 frame
+bor10_07,Bent_over,10,aug2,Bent_over/bor10_07_aug2.csv,75,75,noise
+bor10_08,Bent_over,10,asli,Bent_over/bor10_08_asli.csv,75,75,(data asli)
+bor10_08,Bent_over,10,aug1,Bent_over/bor10_08_aug1.csv,75,75,cermin; rotasi +7°; noise
+bor10_08,Bent_over,10,aug2,Bent_over/bor10_08_aug2.csv,75,83,cermin; kecepatan 75->83 frame

@@ -1,0 +1,17 @@
+# Environment Python (dibuat ulang dengan pip, lihat README)
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Video & gambar yang memperlihatkan subjek (privasi), tidak dipublikasikan
+raw_dataset/
+qa/overlay/
+qa/first_frames/
+qa/snapshots/
+
+# Notebook & hasil versi lama
+arsip/
+
+# File sistem / editor
+.DS_Store
+.vscode/
